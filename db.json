@@ -1,0 +1,938 @@
+{
+  "queens": [
+    {
+      "idQueen": "r1",
+      "name": "Carmen Farala",
+      "winner": true,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Carmen_Farala?file=CarmenFarala.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 1 }
+      ]
+    },
+    {
+      "idQueen": "r2",
+      "name": "Killer Queen",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Killer_Queen?file=KillerQueen.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 2 }
+      ]
+    },
+    {
+      "idQueen": "r3",
+      "name": "Sagittaria",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Sagittaria?file=Sagittaria.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 3 },
+        { "idSeason": "t1", "puesto": 6 }
+      ]
+    },
+    {
+      "idQueen": "r4",
+      "name": "Pupi Poisson",
+      "winner": false,
+      "missCongeniality": true,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pupi_Poisson?file=PupiPoisson.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 4 },
+        { "idSeason": "AS1", "puesto": 5 }
+      ]
+    },
+    {
+      "idQueen": "r5",
+      "name": "Dovima Nurmi",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Dovima_Nurmi?file=DovimaNurmi.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 5 }
+      ]
+    },
+    {
+      "idQueen": "r6",
+      "name": "Hugaceo Crujiente",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Hugáceo_Crujiente?file=HugáceoCrujiente.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 6 }
+      ]
+    },
+    {
+      "idQueen": "r7",
+      "name": "Arantxa Castilla la Mancha",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Arantxa_Castilla-La_Mancha?file=ArantxaCastillaLaMancha.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 7 }
+      ]
+    },
+    {
+      "idQueen": "r8",
+      "name": "Inti",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Inti?file=Inti.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 8 }
+      ]
+    },
+    {
+      "idQueen": "r9",
+      "name": "Drag Vulcano",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Vulcano?file=DragVulcano.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 9 }
+      ]
+    },
+    {
+      "idQueen": "r10",
+      "name": "The Macarena",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/The_Macarena?file=TheMacarena.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 10 },
+        { "idSeason": "t3", "puesto": 10 }
+      ]
+    },
+    {
+      "idQueen": "r11",
+      "name": "Sharonne",
+      "winner": true,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Sharonne?file=Sharonne.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 1 }
+      ]
+    },
+    {
+      "idQueen": "r12",
+      "name": "Estrella Xtravaganza",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Estrella_Xtravaganza?file=EstrellaXtravaganza.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 2 }
+      ]
+    },
+    {
+      "idQueen": "r13",
+      "name": "Venedita Von Däsh",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Venedita_Von_Däsh?file=VeneditaVonDäsh.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 3 }
+      ]
+    },
+    {
+      "idQueen": "r14",
+      "name": "Marina",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Marina?file=Marina.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 4 }
+      ]
+    },
+    {
+      "idQueen": "r15",
+      "name": "Juriji Der Klee",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Juriji_der_Klee?file=JurijiDerKlee.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 5 },
+        { "idSeason": "AS1", "puesto": 3 }
+      ]
+    },
+    {
+      "idQueen": "r16",
+      "name": "Drag Sethlas",
+      "winner": true,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Sethlas?file=DragSethlas.jpg",
+      "seasons": [
+        { "idSeason": "t1", "puesto": 6 },
+        { "idSeason": "AS1", "puesto": 1 }
+      ]
+    },
+    {
+      "idQueen": "r17",
+      "name": "Diamante Mery Brown",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Diamante_Merybrown?file=DiamanteMerybrown.jpg",
+      "seasons": [
+        { "idSeason": "t2", "puesto": 7 }
+      ]
+    },
+    {
+      "idQueen": "r18",
+      "name": "Onyx",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Onyx_Unleashed?file=Onyx.jpg",
+      "seasons": [
+        { "idSeason": "t2", "puesto": 8 },
+        { "idSeason": "AS1", "puesto": 8 }
+      ]
+    },
+    {
+      "idQueen": "r19",
+      "name": "Jota Carajota",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Jota_Carajota?file=JotaCarajota.jpg",
+      "seasons": [
+        { "idSeason": "t2", "puesto": 9 }
+      ]
+    },
+    {
+      "idQueen": "r20",
+      "name": "Samantha Ballentines",
+      "winner": false,
+      "missCongeniality": true,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Samantha_Ballentines?file=SamanthaBallentines.jpg",
+      "seasons": [
+        { "idSeason": "t2", "puesto": 10 },
+        { "idSeason": "AS1", "puesto": 2 }
+      ]
+    },
+    {
+      "idQueen": "r21",
+      "name": "Ariel Rec",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Ariel_Rec?file=ArielRec.jpg",
+      "seasons": [
+        { "idSeason": "t2", "puesto": 11 }
+      ]
+    },
+    {
+      "idQueen": "r22",
+      "name": "Marisa Prisa",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Marisa_Prisa?file=MarisaPrisa.jpg",
+      "seasons": [
+        { "idSeason": "t2", "puesto": 12 }
+      ]
+    },
+    {
+      "idQueen": "r23",
+      "name": "Pitita",
+      "winner": true,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pitita?file=Pitita.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 1 }
+      ]
+    },
+    {
+      "idQueen": "r24",
+      "name": "Vania Vainilla",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Vania_Vainilla?file=VaniaVainilla.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 2 }
+      ]
+    },
+    {
+      "idQueen": "r25",
+      "name": "Hornella Gongora",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Hornella_Góngora?file=HornellaGóngora.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 3 },
+        { "idSeason": "AS1", "puesto": 4 }
+      ]
+    },
+    {
+      "idQueen": "r26",
+      "name": "Kelly Roller",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Kelly_Roller?file=KellyRoller.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 4 }
+      ]
+    },
+    {
+      "idQueen": "r27",
+      "name": "Clover Bish",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Clover_Bish?file=CloverBish.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 5 }
+      ]
+    },
+    {
+      "idQueen": "r28",
+      "name": "Bestiah",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Bestiah?file=Bestiah.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 6 }
+      ]
+    },
+    {
+      "idQueen": "r29",
+      "name": "Pink Chadora",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pink_Chadora?file=PinkChadoraDRES3.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 7 },
+        { "idSeason": "AS1", "puesto": 9 }
+      ]
+    },
+    {
+      "idQueen": "r30",
+      "name": "Pakita",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pakita?file=PakitaDRES3.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 8 },
+        { "idSeason": "AS1", "puesto": 7 }
+      ]
+    },
+    {
+      "idQueen": "r31",
+      "name": "Visa",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Visa?file=Visa.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 9 }
+      ]
+    },
+    {
+      "idQueen": "r32",
+      "name": "Chanel Anorex",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Chanel_Anorex?file=ChanelAnorex.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 11 }
+      ]
+    },
+    {
+      "idQueen": "r33",
+      "name": "Drag Chuchi",
+      "winner": true,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Chuchi?file=DragChuchi.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 12 }
+      ]
+    },
+    {
+      "idQueen": "r34",
+      "name": "Maria Edilia",
+      "winner": false,
+      "missCongeniality": true,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Maria_Edilia?file=MariaEdilia.jpg",
+      "seasons": [
+        { "idSeason": "t3", "puesto": 13 }
+      ]
+    },
+    {
+      "idQueen": "r35",
+      "name": "Le Cocó",
+      "winner": true,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Le_Cocó?file=LeCocó.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 1 }
+      ]
+    },
+    {
+      "idQueen": "r36",
+      "name": "La Bella Vampi",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/La_Bella_Vampi?file=Vampirashian.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 2 }
+      ]
+    },
+    {
+      "idQueen": "r37",
+      "name": "Chloe Vittu",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Chloe_Vittu?file=ChloeVittu.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 3 }
+      ]
+    },
+    {
+      "idQueen": "r38",
+      "name": "La Niña Delantro",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/La_Niña_Delantro?file=LaNiñaDelantro.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 4 }
+      ]
+    },
+    {
+      "idQueen": "r39",
+      "name": "Mariana Star",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Mariana_Stars?file=MarianaStars.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 5 }
+      ]
+    },
+    {
+      "idQueen": "r40",
+      "name": "Megui Yellow",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Megui_Yeillow?file=MeguiYeillow.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 6 }
+      ]
+    },
+    {
+      "idQueen": "r41",
+      "name": "Angelita la Perversa",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Angelita_La_Perversa?file=AngelitalaPerversa.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 7 }
+      ]
+    },
+    {
+      "idQueen": "r42",
+      "name": "Miss Khristo",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Miss_Khristo?file=MissKhristo.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 8 }
+      ]
+    },
+    {
+      "idQueen": "r43",
+      "name": "Kelly Passa",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Kelly_Passa!%3F?file=KellyPassa%21%3F.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 9 }
+      ]
+    },
+    {
+      "idQueen": "r44",
+      "name": "Dita Dubois",
+      "winner": false,
+      "missCongeniality": true,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Dita_Dubois?file=DitaDubois.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 10 }
+      ]
+    },
+    {
+      "idQueen": "r45",
+      "name": "Porca TheClubKidd",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Porca_Theclubkid?file=PorcaTheclubkid.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 11 }
+      ]
+    },
+    {
+      "idQueen": "r46",
+      "name": "Shani LaSanta",
+      "winner": false,
+      "missCongeniality": false,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Shani_LaSanta?file=ShaniLaSanta.jpg",
+      "seasons": [
+        { "idSeason": "t4", "puesto": 12 }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "idSeason": "t1",
+      "number": 1,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_1)?file=DRES1.jpg",
+      "queens": [
+        { "idQueen": "r1", "name": "Carmen Farala", "puesto": 1 },
+        { "idQueen": "r2", "name": "Killer Queen", "puesto": 2 },
+        { "idQueen": "r3", "name": "Sagittaria", "puesto": 3 },
+        { "idQueen": "r4", "name": "Pupi Poisson", "puesto": 4 },
+        { "idQueen": "r5", "name": "Carmen Farala", "puesto": 5 },
+        { "idQueen": "r6", "name": "Killer Queen", "puesto": 6 },
+        { "idQueen": "r7", "name": "Sagittaria", "puesto": 7 },
+        { "idQueen": "r8", "name": "Pupi Poisson", "puesto": 8 },
+        { "idQueen": "r9", "name": "Sagittaria", "puesto": 9 },
+        { "idQueen": "r10", "name": "Pupi Poisson", "puesto": 10 }
+      ]
+    },
+    {
+      "idSeason": "t2",
+      "number": 2,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_2)?file=DRES2.jpg",
+      "queens": [
+        { "idQueen": "r11", "name": "Sharonne", "puesto": 1 },
+        { "idQueen": "r12", "name": "Estrella Xtravaganza", "puesto": 2 },
+        { "idQueen": "r13", "name": "Venedita Von Däsh", "puesto": 3 },
+        { "idQueen": "r14", "name": "Marina", "puesto": 4 },
+        { "idQueen": "r15", "name": "Juriji Der Klee", "puesto": 5 },
+        { "idQueen": "r16", "name": "Drag Sethlas", "puesto": 6 },
+        { "idQueen": "r17", "name": "Diamante Mery Brown", "puesto": 7 },
+        { "idQueen": "r18", "name": "Onyx", "puesto": 8 },
+        { "idQueen": "r19", "name": "Jota Carajota", "puesto": 9 },
+        { "idQueen": "r20", "name": "Samantha Ballentines", "puesto": 10 },
+        { "idQueen": "r21", "name": "Ariel Rec", "puesto": 11 },
+        { "idQueen": "r22", "name": "Marisa Prisa", "puesto": 12 }
+      ]
+    },
+    {
+      "idSeason": "t3",
+      "number": 3,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_2)?file=DRES2.jpg",
+      "queens": [
+        { "idQueen": "r23", "name": "Pitita", "puesto": 1 },
+        { "idQueen": "r24", "name": "Vania Vainilla", "puesto": 2 },
+        { "idQueen": "r25", "name": "Hornella Gongora", "puesto": 3 },
+        { "idQueen": "r26", "name": "Kelly Roller", "puesto": 4 },
+        { "idQueen": "r27", "name": "Clover Bish", "puesto": 5 },
+        { "idQueen": "r28", "name": "Bestiah", "puesto": 6 },
+        { "idQueen": "r29", "name": "Pink Chadora", "puesto": 7 },
+        { "idQueen": "r30", "name": "Pakita", "puesto": 8 },
+        { "idQueen": "r31", "name": "Visa", "puesto": 9 },
+        { "idQueen": "r10", "name": "The Macarena", "puesto": 10 },
+        { "idQueen": "r32", "name": "Chanel Anorex", "puesto": 11 },
+        { "idQueen": "r33", "name": "Drag Chuchi", "puesto": 12 },
+        { "idQueen": "r34", "name": "Maria Edilia", "puesto": 13 }
+      ]
+    },
+    {
+      "idSeason": "t4",
+      "number": 4,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_4)?file=DRES4.jpg",
+      "queens": [
+        { "idQueen": "r35", "name": "Le Cocó", "puesto": 1 },
+        { "idQueen": "r36", "name": "La Bella Vampi", "puesto": 2 },
+        { "idQueen": "r37", "name": "Chloe Vittu", "puesto": 3 },
+        { "idQueen": "r38", "name": "La Niña Delantro", "puesto": 4 },
+        { "idQueen": "r39", "name": "Mariana Star", "puesto": 5 },
+        { "idQueen": "r40", "name": "Megui Yellow", "puesto": 6 },
+        { "idQueen": "r41", "name": "Angelita la Perversa", "puesto": 7 },
+        { "idQueen": "r42", "name": "Miss Khristo", "puesto": 8 },
+        { "idQueen": "r43", "name": "Kelly Passa", "puesto": 9 },
+        { "idQueen": "r44", "name": "Dita Dubois", "puesto": 10 },
+        { "idQueen": "r45", "name": "Porca TheClubKidd", "puesto": 11 },
+        { "idQueen": "r46", "name": "Shani LaSanta", "puesto": 12 }
+      ]
+    },
+    {
+      "idSeason": "AS1",
+      "number": 1,
+      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España:_All_Stars_(Temporada_1)?file=DRESAS1.jpg",
+      "queens": [
+        { "idQueen": "r16", "name": "Drag Sethlas", "puesto": 1 },
+        { "idQueen": "r20", "name": "Samantha Ballentines", "puesto": 2 },
+        { "idQueen": "r25", "name": "Hornella Gongora", "puesto": 3 },
+        { "idQueen": "r15", "name": "Juriji Der Klee", "puesto": 4 },
+        { "idQueen": "r4", "name": "Pupi Poisson", "puesto": 5 },
+        { "idQueen": "r3", "name": "Sagittaria", "puesto": 6 },
+        { "idQueen": "r30", "name": "Pakita", "puesto": 7 },
+        { "idQueen": "r29", "name": "Pink Chadora", "puesto": 8 }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "idEpisode": "t1e1",
+      "title": "Bienvenidas Reinas",
+      "numberEpisode": 1,
+      "idSeason": "t1",
+      "episodeWinner": "Hugáceo Crujiente"
+    },
+    {
+      "idEpisode": "t1e2",
+      "title": "Divas",
+      "numberEpisode": 2,
+      "idSeason": "t1",
+      "episodeWinner": "Carmen Farala"
+    },
+    {
+      "idEpisode": "t1e3",
+      "title": "Mocatriz",
+      "numberEpisode": 3,
+      "idSeason": "t1",
+      "episodeWinner": "Sagittaria"
+    },
+    {
+      "idEpisode": "t1e4",
+      "title": "Snatch Game",
+      "numberEpisode": 4,
+      "idSeason": "t1",
+      "episodeWinner": "Killer Queen"
+    },
+    {
+      "idEpisode": "t1e5",
+      "title": "Básica o cínica",
+      "numberEpisode": 5,
+      "idSeason": "t1",
+      "episodeWinner": "Pupi Poisson"
+    },
+    {
+      "idEpisode": "t1e6",
+      "title": "Drags de la comedia",
+      "numberEpisode": 6,
+      "idSeason": "t1",
+      "episodeWinner": "Carmen Farala"
+    },
+    {
+      "idEpisode": "t1e7",
+      "title": "Titanes del Drag",
+      "numberEpisode": 7,
+      "idSeason": "t1",
+      "episodeWinner": "Carmen Farala"
+    },
+    {
+      "idEpisode": "t1e8",
+      "title": "El Reencuentro",
+      "numberEpisode": 8,
+      "idSeason": "t1",
+      "episodeWinner": "Pupi Poisson miss Simpatia" 
+    },
+    {
+      "idEpisode": "t1e9",
+      "title": "La gran final",
+      "numberEpisode": 9,
+      "idSeason": "t1",
+      "episodeWinner": "Carmen Farala"
+    },
+    {
+      "idEpisode": "t1e10",
+      "title": "La Coronacion",
+      "numberEpisode": 10,
+      "idSeason": "t1",
+      "episodeWinner": "Carmen Farala"
+    },
+    {
+      "idEpisode": "t2e1",
+      "title": "La nueva promoción",
+      "numberEpisode": 1,
+      "idSeason": "t2",
+      "episodeWinner": "Onyx"
+    },
+    {
+      "idEpisode": "t2e2",
+      "title": "Supremme Eleganza Talent Extravaganza",
+      "numberEpisode": 2,
+      "idSeason": "t2",
+      "episodeWinner": "Sharonne"
+    },
+    {
+      "idEpisode": "t2e3",
+      "title": "El diario de Putricia",
+      "numberEpisode": 3,
+      "idSeason": "t2",
+      "episodeWinner": "Venedita Von Däsh"
+    },
+    {
+      "idEpisode": "t2e4",
+      "title": "La LLamadrag",
+      "numberEpisode": 4,
+      "idSeason": "t2",
+      "episodeWinner": "Estrella Xtravaganza"
+    },
+    {
+      "idEpisode": "t2e5",
+      "title": "Snatch Game",
+      "numberEpisode": 5,
+      "idSeason": "t2",
+      "episodeWinner": "Sharonne"
+    },
+    {
+      "idEpisode": "t2e6",
+      "title": "Ball español, siglos X, XX y XXX",
+      "numberEpisode": 6,
+      "idSeason": "t2",
+      "episodeWinner": "Drag Sethlas"
+    },
+    {
+      "idEpisode": "t2e7",
+      "title": "¡Vente a España!",
+      "numberEpisode": 7,
+      "idSeason": "t2",
+      "episodeWinner": "Estrella Xtravaganza y Sharonne"
+    },
+    {
+      "idEpisode": "t2e8",
+      "title": "Drags de la Comedia",
+      "numberEpisode": 8,
+      "idSeason": "t2",
+      "episodeWinner": "Marina"
+    },
+    {
+      "idEpisode": "t2e9",
+      "title": "Makeover de los chicos de oro",
+      "numberEpisode": 9,
+      "idSeason": "t2",
+      "episodeWinner": "Venedita Von Däsh"
+    },
+    {
+      "idEpisode": "t2e10",
+      "title": "El Reencuentro",
+      "numberEpisode": 10,
+      "idSeason": "t2",
+      "episodeWinner": "Samantha Ballantines Miss Simpatia"
+    },
+    {
+      "idEpisode": "t2e11",
+      "title": "Llévame al cielo - La final",
+      "numberEpisode": 11,
+      "idSeason": "t2",
+      "episodeWinner": "Sharonne"
+    },
+    {
+      "idEpisode": "t2e12",
+      "title": "La Coronacion",
+      "numberEpisode": 12,
+      "idSeason": "t2",
+      "episodeWinner": "Sharonne"
+    },
+    {
+      "idEpisode": "t3e1",
+      "title": "Supremme Eleganza Talent Extravaganza",
+      "numberEpisode": 1,
+      "idSeason": "t3",
+      "episodeWinner": "Bestiah"
+    },
+    {
+      "idEpisode": "t3e2",
+      "title": "Dragvision",
+      "numberEpisode": 2,
+      "idSeason": "t3",
+      "episodeWinner": "Pink Chadora"
+    },
+    {
+      "idEpisode": "t3e3",
+      "title": "El gran ball de las regiones",
+      "numberEpisode": 3,
+      "idSeason": "t3",
+      "episodeWinner": "Pitita"
+    },
+    {
+      "idEpisode": "t3e4",
+      "title": "Secuelas de terror Drag",
+      "numberEpisode": 4,
+      "idSeason": "t3",
+      "episodeWinner": "Pitita"
+    },
+    {
+      "idEpisode": "t3e5",
+      "title": "Snatch Game",
+      "numberEpisode": 5,
+      "idSeason": "t3",
+      "episodeWinner": "Pink Chadora"
+    },
+    {
+      "idEpisode": "t3e6",
+      "title": "El mago precoz",
+      "numberEpisode": 6,
+      "idSeason": "t3",
+      "episodeWinner": "Pitita"
+    },
+    {
+      "idEpisode": "t3e7",
+      "title": "Segunda Oportunidad",
+      "numberEpisode": 7,
+      "idSeason": "t3",
+      "episodeWinner": "Vania Vainilla y Kelly Roller"
+    },
+    {
+      "idEpisode": "t3e8",
+      "title": "¡Un, dos, drags!",
+      "numberEpisode": 8,
+      "idSeason": "t3",
+      "episodeWinner": "Pitita"
+    },
+    {
+      "idEpisode": "t3e9",
+      "title": "Make Over. Barricientas",
+      "numberEpisode": 9,
+      "idSeason": "t3",
+      "episodeWinner": "Vania Vainilla"
+    },
+    {
+      "idEpisode": "t3e10",
+      "title": "El Reencuentro",
+      "numberEpisode": 10,
+      "idSeason": "t3",
+      "episodeWinner": "Maria Edilia miss Simpatia"
+    },
+    {
+      "idEpisode": "t3e11",
+      "title": "Fiebre - La Final",
+      "numberEpisode": 11,
+      "idSeason": "t3",
+      "episodeWinner": "Pitita"
+    },{
+      "idEpisode": "t3e12",
+      "title": "La Coronacion",
+      "numberEpisode": 12,
+      "idSeason": "t3",
+      "episodeWinner": "Pitita"
+    },
+    {
+      "idEpisode": "t4e1",
+      "title": "Viaje en el tiempo",
+      "numberEpisode": 1,
+      "idSeason": "t4",
+      "episodeWinner": "Miss Khristo"
+    },
+    {
+      "idEpisode": "t4e2",
+      "title": "Noche de estrellas",
+      "numberEpisode": 2,
+      "idSeason": "t4",
+      "episodeWinner": "Megui Yeillow"
+    },
+    {
+      "idEpisode": "t4e3",
+      "title": "Aquí no hay quien DIVA!",
+      "numberEpisode": 3,
+      "idSeason": "t4",
+      "episodeWinner": "Angelita la Perversa"
+    },
+    {
+      "idEpisode": "t4e4",
+      "title": "Soy aquella niña de la escuela",
+      "numberEpisode": 4,
+      "idSeason": "t4",
+      "episodeWinner": "La niña Delantro"
+    },
+    {
+      "idEpisode": "t4e5",
+      "title": "Snatch Game",
+      "numberEpisode": 5,
+      "idSeason": "t4",
+      "episodeWinner": "Mariana Stars"
+    },
+    {
+      "idEpisode": "t4e6",
+      "title": "Eternas, el musical",
+      "numberEpisode": 6,
+      "idSeason": "t4",
+      "episodeWinner": "La Bella Vampi"
+    },
+    {
+      "idEpisode": "t4e7",
+      "title": "La Draguería del Coleccionista",
+      "numberEpisode": 7,
+      "idSeason": "t4",
+      "episodeWinner": "Le Cocó"
+    },
+    {
+      "idEpisode": "t4e8",
+      "title": "Roast: Marichocho Awards",
+      "numberEpisode": 8,
+      "idSeason": "t4",
+      "episodeWinner": "Le Cocó"
+    },
+    {
+      "idEpisode": "t4e9",
+      "title": "Make Over: Drag Legends",
+      "numberEpisode": 9,
+      "idSeason": "t4",
+      "episodeWinner": "Chloe Vittu"
+    },
+    {
+      "idEpisode": "t4e10",
+      "title": "El Reencuentro",
+      "numberEpisode": 10,
+      "idSeason": "t4",
+      "episodeWinner": "Dita Dubois miss Simpatia"
+    },
+    {
+      "idEpisode": "t4e10",
+      "title": "La gran final",
+      "numberEpisode": 11,
+      "idSeason": "t4",
+      "episodeWinner": "Se pospuso la coronación"
+    },
+    {
+      "idEpisode": "t4e10",
+      "title": "La Gran Gran Final",
+      "numberEpisode": 13,
+      "idSeason": "t4",
+      "episodeWinner": "Le Cocó"
+    },
+    {
+      "idEpisode": "ASe1",
+      "title": "Supremme Eleganza Olé Stars Extravaganza",
+      "numberEpisode": 1,
+      "idSeason": "AS1",
+      "episodeWinner": "Drag Sethlas"
+    },
+    {
+      "idEpisode": "ASe2",
+      "title": "Snatch Game",
+      "numberEpisode": 2,
+      "idSeason": "AS1",
+      "episodeWinner": "Pupi Poisson"
+    },
+    {
+      "idEpisode": "ASe3",
+      "title": "El Ball: Cielo, tierra y pecados capitales",
+      "numberEpisode": 3,
+      "idSeason": "AS1",
+      "episodeWinner": "Drag Sethlas"
+    },
+    {
+      "idEpisode": "ASe4",
+      "title": "Batalla de Girl Bands",
+      "numberEpisode": 4,
+      "idSeason": "AS1",
+      "episodeWinner": "Samantha Ballantines"
+    },
+    {
+      "idEpisode": "ASe5",
+      "title": "Roast: Lavar, marcar y largar",
+      "numberEpisode": 5,
+      "idSeason": "AS1",
+      "episodeWinner": "Samantha Ballantines"
+    },
+    {
+      "idEpisode": "ASe6",
+      "title": "El Reencuentro",
+      "numberEpisode": 6,
+      "idSeason": "AS1",
+      "episodeWinner": "Samantha Ballantines Miss Simpatia"
+    },
+    {
+      "idEpisode": "ASe7",
+      "title": "La gran final",
+      "numberEpisode": 7,
+      "idSeason": "AS1",
+      "episodeWinner": "Drag Sethlas"
+    }
+  ]
+}

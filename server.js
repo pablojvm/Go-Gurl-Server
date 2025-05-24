@@ -1,9 +1,3 @@
-try {
-    process.loadEnvFile()
-} catch (error) {
-    console.warn("archivo .env no encontrdo, usando variables predeterminadas")
-}
-
 const jsonServer = require("json-server")
 
 // creamos el servidor con json-server
@@ -17,7 +11,7 @@ server.use(middlewares)
 const routes = jsonServer.router("db.json")
 server.use(routes)
 
-const PORT = process.env.PORT || 5005
+const PORT = process.env.PORT || 5006
 
 server.listen(PORT, () => {
   console.log(`JSON server ejecutandose en el puerto ${PORT}`)
