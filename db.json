@@ -31,7 +31,10 @@
       "name": "Sagittaria",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Sagittaria?file=Sagittaria.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Sagittaria?file=Sagittaria.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Sagittaria?file=SagittariaDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t1",
@@ -48,7 +51,10 @@
       "name": "Pupi Poisson",
       "winner": false,
       "missCongeniality": true,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pupi_Poisson?file=PupiPoisson.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pupi_Poisson?file=PupiPoisson.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pupi_Poisson?file=PupiPoissonDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t1",
@@ -130,7 +136,10 @@
       "name": "The Macarena",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/The_Macarena?file=TheMacarena.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/The_Macarena?file=TheMacarena.jpg",
+        "thirdSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pupi_Poisson?file=PupiPoissonDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t1",
@@ -199,7 +208,10 @@
       "name": "Juriji Der Klee",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Juriji_der_Klee?file=JurijiDerKlee.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Juriji_der_Klee?file=JurijiDerKlee.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Juriji_der_Klee?file=JurijiDerKleeDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t1",
@@ -216,7 +228,10 @@
       "name": "Drag Sethlas",
       "winner": true,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Sethlas?file=DragSethlas.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Sethlas?file=DragSethlas.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Sethlas?file=DragSethlasDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t1",
@@ -243,10 +258,13 @@
     },
     {
       "idQueen": "r18",
-      "name": "Onyx",
+      "name": "Onyx Unleashed",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Onyx_Unleashed?file=Onyx.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Onyx_Unleashed?file=Onyx.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Onyx_Unleashed?file=OnyxUnleashedDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t2",
@@ -276,7 +294,10 @@
       "name": "Samantha Ballentines",
       "winner": false,
       "missCongeniality": true,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Samantha_Ballentines?file=SamanthaBallentines.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Samantha_Ballentines?file=SamanthaBallentines.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Samantha_Ballentines?file=SamanthaBallentinesDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t2",
@@ -345,7 +366,10 @@
       "name": "Hornella Gongora",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Hornella_Góngora?file=HornellaGóngora.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Hornella_Góngora?file=HornellaGóngora.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Hornella_G%C3%B3ngora?file=HornellaG%C3%B3ngoraDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t3",
@@ -401,7 +425,10 @@
       "name": "Pink Chadora",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pink_Chadora?file=PinkChadoraDRES3.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pink_Chadora?file=PinkChadoraDRES3.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pink_Chadora?file=PinkChadoraDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t3",
@@ -418,7 +445,10 @@
       "name": "Pakita",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Pakita?file=PakitaDRES3.jpg",
+      "image": {
+        "firstSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pakita?file=PakitaDRES3.jpg",
+        "AsSeason": "https://rupaulsdragrace.fandom.com/es/wiki/Pakita?file=PakitaDRESAS1.jpg"
+      },
       "seasons": [
         {
           "idSeason": "t3",
@@ -637,19 +667,6 @@
           "puesto": 12
         }
       ]
-    },
-    {
-      "id": "r50",
-      "name": "Alexandra del Raval",
-      "winner": false,
-      "missCongeniality": true,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Vulcano?file=DragVulcano.jpg",
-      "seasons": [
-        {
-          "seasonId": "t5",
-          "puesto": 4
-        }
-      ]
     }
   ],
   "seasons": [
@@ -752,7 +769,7 @@
         },
         {
           "idQueen": "r18",
-          "name": "Onyx",
+          "name": "Onyx Unleashed",
           "puesto": 8
         },
         {
@@ -1040,7 +1057,7 @@
       "title": "La nueva promoción",
       "numberEpisode": 1,
       "idSeason": "t2",
-      "episodeWinner": "Onyx"
+      "episodeWinner": "Onyx Unleashed"
     },
     {
       "idEpisode": "t2e2",
