@@ -608,7 +608,7 @@
       "name": "Miss Khristo",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Miss_Khristo?file=MissKhristo.jpg",
+      "image": "https://static.wikia.nocookie.net/logosrupaulsdragrace/images/1/10/MissKhristo.jpg/revision/latest/scale-to-width-down/1000?cb=20241015224428",
       "seasons": [
         {
           "idSeason": "t4",
@@ -672,8 +672,8 @@
   "seasons": [
     {
       "idSeason": "t1",
-      "number": 1,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_1)?file=DRES1.jpg",
+      "name": "Primera Temporada",
+      "image": "https://static.wikia.nocookie.net/logosrupaulsdragrace/images/d/d6/DRES1.jpg/revision/latest/scale-to-width-down/1000?cb=20220405000133",
       "queens": [
         {
           "idQueen": "r1",
@@ -729,8 +729,8 @@
     },
     {
       "idSeason": "t2",
-      "number": 2,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_2)?file=DRES2.jpg",
+      "name": "Segunda Temporada",
+      "image": "https://static.wikia.nocookie.net/logosrupaulsdragrace/images/f/fb/DRES2.jpg/revision/latest/scale-to-width-down/1000?cb=20220405000909",
       "queens": [
         {
           "idQueen": "r11",
@@ -796,8 +796,8 @@
     },
     {
       "idSeason": "t3",
-      "number": 3,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_2)?file=DRES2.jpg",
+      "name": "Tercera Temporada",
+      "image": "https://static.wikia.nocookie.net/logosrupaulsdragrace/images/f/fb/DRES3.jpg/revision/latest/scale-to-width-down/1000?cb=20230416194615",
       "queens": [
         {
           "idQueen": "r23",
@@ -868,8 +868,8 @@
     },
     {
       "idSeason": "t4",
-      "number": 4,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España_(Temporada_4)?file=DRES4.jpg",
+      "name": "Cuarta Temporada",
+      "image": "https://static.wikia.nocookie.net/logosrupaulsdragrace/images/4/43/DRES4.jpg/revision/latest/scale-to-width-down/1000?cb=20240912223940",
       "queens": [
         {
           "idQueen": "r35",
@@ -935,7 +935,7 @@
     },
     {
       "idSeason": "AS1",
-      "number": 1,
+      "name": "All Stars 1",
       "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Race_España:_All_Stars_(Temporada_1)?file=DRESAS1.jpg",
       "queens": [
         {
