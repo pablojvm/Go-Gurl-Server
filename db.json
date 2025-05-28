@@ -10,7 +10,8 @@
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 1
+          "ranking": 1,
+          "temporada": "Primera"
         }
       ]
     },
@@ -24,7 +25,8 @@
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 2
+          "ranking": 2,
+          "temporada": "Primera"
         }
       ]
     },
@@ -38,11 +40,13 @@
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 3
+          "ranking": 3,
+          "temporada": "Primera"
         },
         {
-          "seasonId": "t1",
-          "ranking": 6
+          "seasonId": "AS1",
+          "ranking": 6,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -56,11 +60,13 @@
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 4
+          "ranking": 4,
+          "temporada": "Primera"
         },
         {
           "seasonId": "AS1",
-          "ranking": 5
+          "ranking": 5,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -69,11 +75,13 @@
       "name": "Dovima Nurmi",
       "winner": false,
       "missCongeniality": false,
+      "description": "Concuersante de la primera edición, perdió a posta en el lipsync",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DovimaNurmi_sjtcsn.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 5
+          "ranking": 5,
+          "temporada": "Primera"
         }
       ]
     },
@@ -82,11 +90,13 @@
       "name": "Hugaceo Crujiente",
       "winner": false,
       "missCongeniality": false,
+      "description": "Reconodia drag por su exhuberante y llamativo maquillaje que recuerda al art-pop",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/Hug_3FceoCrujiente_qcu46n.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 6
+          "ranking": 6,
+          "temporada": "Primera"
         }
       ]
     },
@@ -94,12 +104,14 @@
       "id": "r7",
       "name": "Arantxa Castilla la Mancha",
       "winner": false,
-      "missCongeniality": false,
+      "missCongeniality": true,
+      "description": "Volvería para edición internacional donde sería nombrada missCongeniality",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/ArantxaCastillaLaMancha_atkd1b.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 7
+          "ranking": 7,
+          "temporada": "Primera"
         }
       ]
     },
@@ -108,11 +120,13 @@
       "name": "Inti",
       "winner": false,
       "missCongeniality": false,
+      "description": "Su drag suele hacer referencia a su procedencia indigena, ha sido la unica del formato en abandonar",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295670/Inti_lz96vx.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 8
+          "ranking": 8,
+          "temporada": "Primera"
         }
       ]
     },
@@ -121,11 +135,13 @@
       "name": "Drag Vulcano",
       "winner": false,
       "missCongeniality": false,
+      "description": "Primera drag canaria del formato y asidua pasrticipante de la Gala Drag Queen Las Palmas ",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DragVulcano_ijfvoo.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 9
+          "ranking": 9,
+          "temporada": "Primera"
         }
       ]
     },
@@ -134,15 +150,18 @@
       "name": "The Macarena",
       "winner": false,
       "missCongeniality": false,
+      "description": "La unica drag que ha concursado en dos temporadas normales, la primera y la tercera",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295672/TheMacarena_geg11z.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 10
+          "ranking": 10,
+          "temporada": "Primera"
         },
         {
           "seasonId": "t3",
-          "ranking": 10
+          "ranking": 10,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -151,11 +170,13 @@
       "name": "Sharonne",
       "winner": true,
       "missCongeniality": false,
+      "description": "Ganadora de la segunda edición de esta competición. Reina todoterreno",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/Sharonne_cuzeyn.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 1
+          "ranking": 1,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -164,11 +185,13 @@
       "name": "Estrella Xtravaganza",
       "winner": false,
       "missCongeniality": false,
+      "description": "Definida a sí misma como gora y travesti, fue nombrada por sus compañeras missMuerta de hambre",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296158/EstrellaXtravaganza_lajwwx.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 2
+          "ranking": 2,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -177,11 +200,13 @@
       "name": "Venedita Von Däsh",
       "winner": false,
       "missCongeniality": false,
+      "description": "Artista drag andrógina, con un drag sado y cuero-fetichista",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/VeneditaVonD_3Fsh_bumf1k.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 3
+          "ranking": 3,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -190,11 +215,13 @@
       "name": "Marina",
       "winner": false,
       "missCongeniality": false,
+      "description": "Una de las finalistas de su temporada, define su drag como la parte femenina de su personalidad",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296162/Marina_yldsb0.webp",
       "seasons": [
         {
           "seasonId": "t1",
-          "ranking": 4
+          "ranking": 4,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -203,15 +230,18 @@
       "name": "Juriji Der Klee",
       "winner": false,
       "missCongeniality": false,
+      "description": "Artista drag y mujer trans que volveria a la edición del All Stars para convertirse en finalista",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296160/JurijiDerKlee_rwrgk0.webp",
       "seasons": [
         {
-          "seasonId": "t1",
-          "ranking": 5
+          "seasonId": "t2",
+          "ranking": 5,
+          "temporada": "Segunda"
         },
         {
           "seasonId": "AS1",
-          "ranking": 3
+          "ranking": 3,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -220,15 +250,18 @@
       "name": "Drag Sethlas",
       "winner": true,
       "missCongeniality": false,
-      "image": "https://rupaulsdragrace.fandom.com/es/wiki/Drag_Sethlas?file=DragSethlas.jpg",
+      "description": "Tras un sexto puesto en su primera competición, volveria al All Stars para convertise en ganadora",
+      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DragSethlas_eyvrnl.webp",
       "seasons": [
         {
-          "seasonId": "t1",
-          "ranking": 6
+          "seasonId": "t2",
+          "ranking": 6,
+          "temporada": "Segunda"
         },
         {
           "seasonId": "AS1",
-          "ranking": 1
+          "ranking": 1,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -237,11 +270,13 @@
       "name": "Diamante Mery Brown",
       "winner": false,
       "missCongeniality": false,
+      "description": "Es la primera dominicana de la franquicia. Su paso por el concurso no le granjeó mucha simpatia entre el público",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DiamanteMerybrown_eskoo7.webp",
       "seasons": [
         {
           "seasonId": "t2",
-          "ranking": 7
+          "ranking": 7,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -250,15 +285,18 @@
       "name": "Onyx Unleashed",
       "winner": false,
       "missCongeniality": false,
+      "description": "Tras quedar en octava posición en su temporada original, volveria al all star para quedar en el mismo puesto.",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296164/Onyx_so01bq.webp",
       "seasons": [
         {
           "seasonId": "t2",
-          "ranking": 8
+          "ranking": 8,
+          "temporada": "Segunda"
         },
         {
           "seasonId": "AS1",
-          "ranking": 8
+          "ranking": 8,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -267,11 +305,13 @@
       "name": "Jota Carajota",
       "winner": false,
       "missCongeniality": false,
+      "description": "Recurrente drag de la noche torremolinense, es una destacada comedy-drag tachada de poco original",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296159/JotaCarajota_xdczp1.webp",
       "seasons": [
         {
           "seasonId": "t2",
-          "ranking": 9
+          "ranking": 9,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -280,15 +320,18 @@
       "name": "Samantha Ballentines",
       "winner": false,
       "missCongeniality": true,
+      "description": "ComedyQueen por excelencia que tras quedar penultima en su primera edición, volvio al All Stars para quedar segunda",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296166/SamanthaBallentines_jspogf.webp",
       "seasons": [
         {
           "seasonId": "t2",
-          "ranking": 10
+          "ranking": 10,
+          "temporada": "Segunda"
         },
         {
           "seasonId": "AS1",
-          "ranking": 2
+          "ranking": 2,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -297,11 +340,13 @@
       "name": "Ariel Rec",
       "winner": false,
       "missCongeniality": false,
+      "description": "En penultima posición en su temporada, no se pudo ver mucho de ella",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296155/ArielRec_opedk9.webp",
       "seasons": [
         {
           "seasonId": "t2",
-          "ranking": 11
+          "ranking": 11,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -310,11 +355,13 @@
       "name": "Marisa Prisa",
       "winner": false,
       "missCongeniality": false,
+      "description": "Fues la segunda reina en traer comida al werkroom durante su entrada y luego ser eliminada en el primer episodio",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296163/MarisaPrisa_d9opbi.webp",
       "seasons": [
         {
           "seasonId": "t2",
-          "ranking": 12
+          "ranking": 12,
+          "temporada": "Segunda"
         }
       ]
     },
@@ -323,11 +370,13 @@
       "name": "Pitita",
       "winner": true,
       "missCongeniality": false,
+      "description": "Gran maestra de la costura y la moda, es la ganadora de la tercera temporada",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296589/Pitita_so8jp1.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 1
+          "ranking": 1,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -336,11 +385,13 @@
       "name": "Vania Vainilla",
       "winner": false,
       "missCongeniality": false,
+      "description": "Finalista de la segunda temporada, convenció a todo el mundo con su gracia natural",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/VaniaVainilla_tgcxsq.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 2
+          "ranking": 2,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -349,15 +400,18 @@
       "name": "Hornella Gongora",
       "winner": false,
       "missCongeniality": false,
+      "description": "Finalista por 2 veces, ha demostrado tener un gran gusto y talento innegable",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296580/HornellaG_3Fngora_uf7r7i.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 3
+          "ranking": 3,
+          "temporada": "Tercera"
         },
         {
           "seasonId": "AS1",
-          "ranking": 4
+          "ranking": 4,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -366,11 +420,13 @@
       "name": "Kelly Roller",
       "winner": false,
       "missCongeniality": false,
+      "description": "Patinadora de profesión, es la unica reina que ha participado en patines de la franquicia y que ha sido expulsada y ha vuelto.",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296583/KellyRoller_wtzwvp.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 4
+          "ranking": 4,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -379,11 +435,13 @@
       "name": "Clover Bish",
       "winner": false,
       "missCongeniality": false,
+      "description": "Artistaza con mayuculas, mujer cis-hetero, se ha confirmado que va a la proxima edicion internacional",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/CloverBish_jadxlb.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 5
+          "ranking": 5,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -392,11 +450,13 @@
       "name": "Bestiah",
       "winner": false,
       "missCongeniality": false,
+      "description": "Su nombre describe en parte a su drag, algo rocambolesco y/o monstruoso",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296577/Bestiah_appuiu.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 6
+          "ranking": 6,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -405,15 +465,18 @@
       "name": "Pink Chadora",
       "winner": false,
       "missCongeniality": false,
+      "description": "Artista drag y cantante con varios hits conocidos en el ambiente LGTBI",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296587/PinkChadoraDRES3_q3k2uy.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 7
+          "ranking": 7,
+          "temporada": "Tercera"
         },
         {
           "seasonId": "AS1",
-          "ranking": 9
+          "ranking": 9,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -422,15 +485,18 @@
       "name": "Pakita",
       "winner": false,
       "missCongeniality": false,
+      "description": "Sevillana, artista y talentosa drag, con un gusto exquisito y arte que no se puede aguantar",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296585/PakitaDRES3_flsqsu.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 8
+          "ranking": 8,
+          "temporada": "Tercera"
         },
         {
           "seasonId": "AS1",
-          "ranking": 7
+          "ranking": 7,
+          "temporada": "All Stars"
         }
       ]
     },
@@ -439,11 +505,13 @@
       "name": "Visa",
       "winner": false,
       "missCongeniality": false,
+      "description": "Drag mejicana, fue nombrada por sus compañeras miss Look Perdido",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/Visa_nuphwg.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 9
+          "ranking": 9,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -452,11 +520,13 @@
       "name": "Chanel Anorex",
       "winner": false,
       "missCongeniality": false,
+      "description": "Su drag es oscuro, creepy y poco comun, lo que la hace muy original",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/ChanelAnorex_sziaum.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 11
+          "ranking": 11,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -465,11 +535,13 @@
       "name": "Drag Chuchi",
       "winner": true,
       "missCongeniality": false,
+      "description": "Tercera drag canaria, es la que peor puesto obtuvo de las tres.",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296579/DragChuchi_wxmffs.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 12
+          "ranking": 12,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -478,11 +550,13 @@
       "name": "Maria Edilia",
       "winner": false,
       "missCongeniality": true,
+      "description": "Primera expulsada de su cocurso, de origen venezolano, salió mal parada en su maxi reto",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296584/MariaEdilia_uq7vml.webp",
       "seasons": [
         {
           "seasonId": "t3",
-          "ranking": 13
+          "ranking": 13,
+          "temporada": "Tercera"
         }
       ]
     },
@@ -491,11 +565,13 @@
       "name": "Le Cocó",
       "winner": true,
       "missCongeniality": false,
+      "description": "La nariz de la noche madrileña, cabaretera y mujer de calle, asi se defina la ganadora de la cuarta edición",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 1
+          "ranking": 1,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -504,11 +580,13 @@
       "name": "La Bella Vampi",
       "winner": false,
       "missCongeniality": false,
+      "description": "Anteriormente llamada Vampirashian, fue la merecedora del primer puesto según una gran parte del público",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 2
+          "ranking": 2,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -517,11 +595,13 @@
       "name": "Chloe Vittu",
       "winner": false,
       "missCongeniality": false,
+      "description": "Rebelde y alocada, esta chica a pesar de tener un drag muy joven demostró ser de las mejores del formato",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/ChloeVittu_ipecr9.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 3
+          "ranking": 3,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -530,11 +610,13 @@
       "name": "La Niña Delantro",
       "winner": false,
       "missCongeniality": false,
+      "description": "Fue nombrada miss Maquillaje y demostró su potencial convirtiendose en finalista",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LaNi_3FaDelantro_cg4l9b.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 4
+          "ranking": 4,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -543,11 +625,13 @@
       "name": "Mariana Star",
       "winner": false,
       "missCongeniality": false,
+      "description": "Artista, drag y Miss, demostró ser todoterreno en el programa",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296842/MarianaStars_ggbwh6.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 5
+          "ranking": 5,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -556,11 +640,13 @@
       "name": "Megui Yellow",
       "winner": false,
       "missCongeniality": false,
+      "description": "Primera drag que ha participado en todas las ediciones(en las anteriores como PitCrew)",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MeguiYeillow_ppdj5i.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 6
+          "ranking": 6,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -569,11 +655,13 @@
       "name": "Angelita la Perversa",
       "winner": false,
       "missCongeniality": false,
+      "description": "Nombrada popularmente como la drag mas odiada del formato, fue tachada de transfoba y acusada de agrsión",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296835/AngelitalaPerversa_s080am.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 7
+          "ranking": 7,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -582,11 +670,13 @@
       "name": "Miss Khristo",
       "winner": false,
       "missCongeniality": false,
+      "description": "Fashion Victim por excelencia, convertía sus pasarelas en una pasarela de Vogue",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MissKhristo_mufqlk.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 8
+          "ranking": 8,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -595,11 +685,13 @@
       "name": "Kelly Passa",
       "winner": false,
       "missCongeniality": false,
+      "description": "Definía su drag como punk, era extravagante y llamativo",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296837/KellyPassa_21_3F_duj2n5.webp",
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 9
+          "ranking": 9,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -613,7 +705,8 @@
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 10
+          "ranking": 10,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -627,7 +720,8 @@
       "seasons": [
         {
           "seasonId": "t4",
-          "ranking": 11
+          "ranking": 11,
+          "temporada": "Cuarta"
         }
       ]
     },
@@ -641,7 +735,8 @@
       "seasonsParticipated": [
         {
           "seasonId": "t4",
-          "ranking": 12
+          "ranking": 12,
+          "temporada": "Cuarta"
         }
       ]
     }
@@ -969,371 +1064,477 @@
       "title": "Bienvenidas Reinas",
       "numberEpisode": 1,
       "seasonId": "t1",
-      "episodeWinner": "Hugáceo Crujiente"
+      "episodeWinner": "Hugáceo Crujiente",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e2",
       "title": "Divas",
       "numberEpisode": 2,
       "seasonId": "t1",
-      "episodeWinner": "Carmen Farala"
+      "episodeWinner": "Carmen Farala",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e3",
       "title": "Mocatriz",
       "numberEpisode": 3,
       "seasonId": "t1",
-      "episodeWinner": "Sagittaria"
+      "episodeWinner": "Sagittaria",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e4",
       "title": "Snatch Game",
       "numberEpisode": 4,
       "seasonId": "t1",
-      "episodeWinner": "Killer Queen"
+      "episodeWinner": "Killer Queen",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e5",
       "title": "Básica o cínica",
       "numberEpisode": 5,
       "seasonId": "t1",
-      "episodeWinner": "Pupi Poisson"
+      "episodeWinner": "Pupi Poisson",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e6",
       "title": "Drags de la comedia",
       "numberEpisode": 6,
       "seasonId": "t1",
-      "episodeWinner": "Carmen Farala"
+      "episodeWinner": "Carmen Farala",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e7",
       "title": "Titanes del Drag",
       "numberEpisode": 7,
       "seasonId": "t1",
-      "episodeWinner": "Carmen Farala"
+      "episodeWinner": "Carmen Farala",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e8",
       "title": "El Reencuentro",
       "numberEpisode": 8,
       "seasonId": "t1",
-      "episodeWinner": "Pupi Poisson miss Simpatia"
+      "episodeWinner": "Pupi Poisson miss Simpatia",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e9",
       "title": "La gran final",
       "numberEpisode": 9,
       "seasonId": "t1",
-      "episodeWinner": "Carmen Farala"
+      "episodeWinner": "Carmen Farala",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t1e10",
       "title": "La Coronacion",
       "numberEpisode": 10,
       "seasonId": "t1",
-      "episodeWinner": "Carmen Farala"
+      "episodeWinner": "Carmen Farala",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e1",
       "title": "La nueva promoción",
       "numberEpisode": 1,
       "seasonId": "t2",
-      "episodeWinner": "Onyx Unleashed"
+      "episodeWinner": "Onyx Unleashed",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e2",
       "title": "Supremme Eleganza Talent Extravaganza",
       "numberEpisode": 2,
       "seasonId": "t2",
-      "episodeWinner": "Sharonne"
+      "episodeWinner": "Sharonne",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e3",
       "title": "El diario de Putricia",
       "numberEpisode": 3,
       "seasonId": "t2",
-      "episodeWinner": "Venedita Von Däsh"
+      "episodeWinner": "Venedita Von Däsh",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e4",
       "title": "La LLamadrag",
       "numberEpisode": 4,
       "seasonId": "t2",
-      "episodeWinner": "Estrella Xtravaganza"
+      "episodeWinner": "Estrella Xtravaganza",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e5",
       "title": "Snatch Game",
       "numberEpisode": 5,
       "seasonId": "t2",
-      "episodeWinner": "Sharonne"
+      "episodeWinner": "Sharonne",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e6",
       "title": "Ball español, siglos X, XX y XXX",
       "numberEpisode": 6,
       "seasonId": "t2",
-      "episodeWinner": "Drag Sethlas"
+      "episodeWinner": "Drag Sethlas",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e7",
       "title": "¡Vente a España!",
       "numberEpisode": 7,
       "seasonId": "t2",
-      "episodeWinner": "Estrella Xtravaganza y Sharonne"
+      "episodeWinner": "Estrella Xtravaganza y Sharonne",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e8",
       "title": "Drags de la Comedia",
       "numberEpisode": 8,
       "seasonId": "t2",
-      "episodeWinner": "Marina"
+      "episodeWinner": "Marina",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e9",
       "title": "Makeover de los chicos de oro",
       "numberEpisode": 9,
       "seasonId": "t2",
-      "episodeWinner": "Venedita Von Däsh"
+      "episodeWinner": "Venedita Von Däsh",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e10",
       "title": "El Reencuentro",
       "numberEpisode": 10,
       "seasonId": "t2",
-      "episodeWinner": "Samantha Ballantines Miss Simpatia"
+      "episodeWinner": "Samantha Ballantines Miss Simpatia",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e11",
       "title": "Llévame al cielo - La final",
       "numberEpisode": 11,
       "seasonId": "t2",
-      "episodeWinner": "Sharonne"
+      "episodeWinner": "Sharonne",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t2e12",
       "title": "La Coronacion",
       "numberEpisode": 12,
       "seasonId": "t2",
-      "episodeWinner": "Sharonne"
+      "episodeWinner": "Sharonne",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e1",
       "title": "Supremme Eleganza Talent Extravaganza",
       "numberEpisode": 1,
       "seasonId": "t3",
-      "episodeWinner": "Bestiah"
+      "episodeWinner": "Bestiah",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e2",
       "title": "Dragvision",
       "numberEpisode": 2,
       "seasonId": "t3",
-      "episodeWinner": "Pink Chadora"
+      "episodeWinner": "Pink Chadora",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e3",
       "title": "El gran ball de las regiones",
       "numberEpisode": 3,
       "seasonId": "t3",
-      "episodeWinner": "Pitita"
+      "episodeWinner": "Pitita",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e4",
       "title": "Secuelas de terror Drag",
       "numberEpisode": 4,
       "seasonId": "t3",
-      "episodeWinner": "Pitita"
+      "episodeWinner": "Pitita",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e5",
       "title": "Snatch Game",
       "numberEpisode": 5,
       "seasonId": "t3",
-      "episodeWinner": "Pink Chadora"
+      "episodeWinner": "Pink Chadora",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e6",
       "title": "El mago precoz",
       "numberEpisode": 6,
       "seasonId": "t3",
-      "episodeWinner": "Pitita"
+      "episodeWinner": "Pitita",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e7",
       "title": "Segunda Oportunidad",
       "numberEpisode": 7,
       "seasonId": "t3",
-      "episodeWinner": "Vania Vainilla y Kelly Roller"
+      "episodeWinner": "Vania Vainilla y Kelly Roller",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e8",
       "title": "¡Un, dos, drags!",
       "numberEpisode": 8,
       "seasonId": "t3",
-      "episodeWinner": "Pitita"
+      "episodeWinner": "Pitita",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e9",
       "title": "Make Over. Barricientas",
       "numberEpisode": 9,
       "seasonId": "t3",
-      "episodeWinner": "Vania Vainilla"
+      "episodeWinner": "Vania Vainilla",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e10",
       "title": "El Reencuentro",
       "numberEpisode": 10,
       "seasonId": "t3",
-      "episodeWinner": "Maria Edilia miss Simpatia"
+      "episodeWinner": "Maria Edilia miss Simpatia",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e11",
       "title": "Fiebre - La Final",
       "numberEpisode": 11,
       "seasonId": "t3",
-      "episodeWinner": "Pitita"
+      "episodeWinner": "Pitita",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t3e12",
       "title": "La Coronacion",
       "numberEpisode": 12,
       "seasonId": "t3",
-      "episodeWinner": "Pitita"
+      "episodeWinner": "Pitita",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e1",
       "title": "Viaje en el tiempo",
       "numberEpisode": 1,
       "seasonId": "t4",
-      "episodeWinner": "Miss Khristo"
+      "episodeWinner": "Miss Khristo",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e2",
       "title": "Noche de estrellas",
       "numberEpisode": 2,
       "seasonId": "t4",
-      "episodeWinner": "Megui Yeillow"
+      "episodeWinner": "Megui Yeillow",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e3",
       "title": "Aquí no hay quien DIVA!",
       "numberEpisode": 3,
       "seasonId": "t4",
-      "episodeWinner": "Angelita la Perversa"
+      "episodeWinner": "Angelita la Perversa",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e4",
       "title": "Soy aquella niña de la escuela",
       "numberEpisode": 4,
       "seasonId": "t4",
-      "episodeWinner": "La niña Delantro"
+      "episodeWinner": "La niña Delantro",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e5",
       "title": "Snatch Game",
       "numberEpisode": 5,
       "seasonId": "t4",
-      "episodeWinner": "Mariana Stars"
+      "episodeWinner": "Mariana Stars",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e6",
       "title": "Eternas, el musical",
       "numberEpisode": 6,
       "seasonId": "t4",
-      "episodeWinner": "La Bella Vampi"
+      "episodeWinner": "La Bella Vampi",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e7",
       "title": "La Draguería del Coleccionista",
       "numberEpisode": 7,
       "seasonId": "t4",
-      "episodeWinner": "Le Cocó"
+      "episodeWinner": "Le Cocó",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e8",
       "title": "Roast: Marichocho Awards",
       "numberEpisode": 8,
       "seasonId": "t4",
-      "episodeWinner": "Le Cocó"
+      "episodeWinner": "Le Cocó",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e9",
       "title": "Make Over: Drag Legends",
       "numberEpisode": 9,
       "seasonId": "t4",
-      "episodeWinner": "Chloe Vittu"
+      "episodeWinner": "Chloe Vittu",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e10",
       "title": "El Reencuentro",
       "numberEpisode": 10,
       "seasonId": "t4",
-      "episodeWinner": "Dita Dubois miss Simpatia"
+      "episodeWinner": "Dita Dubois miss Simpatia",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e10",
       "title": "La gran final",
       "numberEpisode": 11,
       "seasonId": "t4",
-      "episodeWinner": "Se pospuso la coronación"
+      "episodeWinner": "Se pospuso la coronación",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "t4e10",
       "title": "La Gran Gran Final",
       "numberEpisode": 13,
       "seasonId": "t4",
-      "episodeWinner": "Le Cocó"
+      "episodeWinner": "Le Cocó",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe1",
       "title": "Supremme Eleganza Olé Stars Extravaganza",
       "numberEpisode": 1,
       "seasonId": "AS1",
-      "episodeWinner": "Drag Sethlas"
+      "episodeWinner": "Drag Sethlas",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe2",
       "title": "Snatch Game",
       "numberEpisode": 2,
       "seasonId": "AS1",
-      "episodeWinner": "Pupi Poisson"
+      "episodeWinner": "Pupi Poisson",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe3",
       "title": "El Ball: Cielo, tierra y pecados capitales",
       "numberEpisode": 3,
       "seasonId": "AS1",
-      "episodeWinner": "Drag Sethlas"
+      "episodeWinner": "Drag Sethlas",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe4",
       "title": "Batalla de Girl Bands",
       "numberEpisode": 4,
       "seasonId": "AS1",
-      "episodeWinner": "Samantha Ballantines"
+      "episodeWinner": "Samantha Ballantines",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe5",
       "title": "Roast: Lavar, marcar y largar",
       "numberEpisode": 5,
       "seasonId": "AS1",
-      "episodeWinner": "Samantha Ballantines"
+      "episodeWinner": "Samantha Ballantines",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe6",
       "title": "El Reencuentro",
       "numberEpisode": 6,
       "seasonId": "AS1",
-      "episodeWinner": "Samantha Ballantines Miss Simpatia"
+      "episodeWinner": "Samantha Ballantines Miss Simpatia",
+      "episodeLooser": "",
+      "description": ""
     },
     {
       "id": "ASe7",
       "title": "La gran final",
       "numberEpisode": 7,
       "seasonId": "AS1",
-      "episodeWinner": "Drag Sethlas"
+      "episodeWinner": "Drag Sethlas",
+      "episodeLooser": "",
+      "description": ""
     }
   ]
 }
