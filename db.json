@@ -34,7 +34,7 @@
       "winner": false,
       "missCongeniality": false,
       "description": "RunnerUp de la primera temporada es una de las mejores drags enfocadas en moda, tambien participó en el All Star",
-      "image":  "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/Sagittaria_todj4u.webp",
+      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/Sagittaria_todj4u.webp",
       "seasons": [
         {
           "seasonId": "t1",
@@ -51,6 +51,7 @@
       "name": "Pupi Poisson",
       "winner": false,
       "missCongeniality": true,
+      "description": "Nombrada como missCongeniality Pupi es una de las comedy Drags mas graciosas",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748268484/PupiPoisson_dotcd3.webp",
       "seasons": [
         {
@@ -133,7 +134,7 @@
       "name": "The Macarena",
       "winner": false,
       "missCongeniality": false,
-      "image":"https://res.cloudinary.com/dinaognbb/image/upload/v1748295672/TheMacarena_geg11z.webp",
+      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295672/TheMacarena_geg11z.webp",
       "seasons": [
         {
           "seasonId": "t1",
@@ -607,6 +608,7 @@
       "name": "Dita Dubois",
       "winner": false,
       "missCongeniality": true,
+      "description": "Primera Drag canaria del formato que no hace drag canario. Comedy queen",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/DitaDubois_lfdtca.webp",
       "seasons": [
         {
@@ -620,6 +622,7 @@
       "name": "Porca TheClubKidd",
       "winner": false,
       "missCongeniality": false,
+      "description": "Su drag era oscuro y fetiche, fue miss look perdido",
       "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296845/PorcaTheclubkid_ktajch.webp",
       "seasons": [
         {
@@ -633,7 +636,8 @@
       "name": "Shani LaSanta",
       "winner": false,
       "missCongeniality": false,
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296846/ShaniLaSanta_woopz2.webpnode s",
+      "description": "Fue la primera expulsada de su edicion, ganó fama y mejoró su drag tras la expulsión",
+      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296846/ShaniLaSanta_woopz2.webp",
       "seasonsParticipated": [
         {
           "seasonId": "t4",

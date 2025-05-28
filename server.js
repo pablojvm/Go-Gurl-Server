@@ -1,3 +1,10 @@
+try {
+  // intenta acceder a las variables del archivo .env
+  process.loadEnvFile()
+} catch (error) {
+  console.warn("archivo .env no encontrado, usando variables predeterminadas")
+}
+
 const jsonServer = require("json-server")
 
 // creamos el servidor con json-server
