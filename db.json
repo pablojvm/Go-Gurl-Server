@@ -6,7 +6,9 @@
       "winner": true,
       "missCongeniality": false,
       "description": "Es la primera ganadora de la franquicia española. Una gran artista del diseño y la costura ",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748268433/CarmenFarala_dkk2gw.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268433/CarmenFarala_dkk2gw.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -21,7 +23,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Finalista de la primera temporada, llegó al lipsync final donde quedó runnerUp junto a Sagittaria. Activista del colectivo",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748268447/KillerQueen_qriwv4.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268447/KillerQueen_qriwv4.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -36,7 +40,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "RunnerUp de la primera temporada es una de las mejores drags enfocadas en moda, tambien participó en el All Star",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/Sagittaria_todj4u.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/Sagittaria_todj4u.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/SagittariaDRESAS1_ivi4wi.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -56,7 +63,10 @@
       "winner": false,
       "missCongeniality": true,
       "description": "Nombrada como missCongeniality Pupi es una de las comedy Drags mas graciosas",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748268484/PupiPoisson_dotcd3.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268484/PupiPoisson_dotcd3.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268420/PupiPoissonDRESAS1_kkzcmo.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -76,7 +86,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Concuersante de la primera edición, perdió a posta en el lipsync",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DovimaNurmi_sjtcsn.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DovimaNurmi_sjtcsn.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -91,7 +103,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Reconodia drag por su exhuberante y llamativo maquillaje que recuerda al art-pop",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/Hug_3FceoCrujiente_qcu46n.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/Hug_3FceoCrujiente_qcu46n.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -106,7 +120,10 @@
       "winner": false,
       "missCongeniality": true,
       "description": "Volvería para edición internacional donde sería nombrada missCongeniality",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/ArantxaCastillaLaMancha_atkd1b.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/ArantxaCastillaLaMancha_atkd1b.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748451471/ArantxaCastillaLaManchaUKvsTW2_taks56.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -121,7 +138,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Su drag suele hacer referencia a su procedencia indigena, ha sido la unica del formato en abandonar",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295670/Inti_lz96vx.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295670/Inti_lz96vx.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -136,7 +155,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Primera drag canaria del formato y asidua pasrticipante de la Gala Drag Queen Las Palmas ",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DragVulcano_ijfvoo.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DragVulcano_ijfvoo.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -151,7 +172,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "La unica drag que ha concursado en dos temporadas normales, la primera y la tercera",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748295672/TheMacarena_geg11z.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295672/TheMacarena_geg11z.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295771/TheMacarenaDRES3_yjfbhi.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -171,7 +195,9 @@
       "winner": true,
       "missCongeniality": false,
       "description": "Ganadora de la segunda edición de esta competición. Reina todoterreno",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/Sharonne_cuzeyn.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/Sharonne_cuzeyn.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -186,7 +212,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Definida a sí misma como gora y travesti, fue nombrada por sus compañeras missMuerta de hambre",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296158/EstrellaXtravaganza_lajwwx.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296158/EstrellaXtravaganza_lajwwx.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -201,7 +229,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Artista drag andrógina, con un drag sado y cuero-fetichista",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/VeneditaVonD_3Fsh_bumf1k.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/VeneditaVonD_3Fsh_bumf1k.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -216,7 +246,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Una de las finalistas de su temporada, define su drag como la parte femenina de su personalidad",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296162/Marina_yldsb0.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296162/Marina_yldsb0.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t1",
@@ -231,7 +263,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Artista drag y mujer trans que volveria a la edición del All Stars para convertirse en finalista",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296160/JurijiDerKlee_rwrgk0.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296160/JurijiDerKlee_rwrgk0.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296161/JurijiDerKleeDRESAS1_pyymxh.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -251,7 +286,10 @@
       "winner": true,
       "missCongeniality": false,
       "description": "Tras un sexto puesto en su primera competición, volveria al All Stars para convertise en ganadora",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DragSethlas_eyvrnl.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DragSethlas_eyvrnl.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296157/DragSethlasDRESAS1_uwghtu.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -271,7 +309,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Es la primera dominicana de la franquicia. Su paso por el concurso no le granjeó mucha simpatia entre el público",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DiamanteMerybrown_eskoo7.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DiamanteMerybrown_eskoo7.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -286,7 +326,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Tras quedar en octava posición en su temporada original, volveria al all star para quedar en el mismo puesto.",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296164/Onyx_so01bq.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296164/Onyx_so01bq.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296164/OnyxUnleashedDRESAS1_uj1dcf.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -306,7 +349,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Recurrente drag de la noche torremolinense, es una destacada comedy-drag tachada de poco original",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296159/JotaCarajota_xdczp1.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296159/JotaCarajota_xdczp1.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -321,7 +366,10 @@
       "winner": false,
       "missCongeniality": true,
       "description": "ComedyQueen por excelencia que tras quedar penultima en su primera edición, volvio al All Stars para quedar segunda",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296166/SamanthaBallentines_jspogf.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296166/SamanthaBallentines_jspogf.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296166/SamanthaBallentinesDRESAS1_cidwvy.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -341,7 +389,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "En penultima posición en su temporada, no se pudo ver mucho de ella",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296155/ArielRec_opedk9.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296155/ArielRec_opedk9.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -356,7 +406,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Fues la segunda reina en traer comida al werkroom durante su entrada y luego ser eliminada en el primer episodio",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296163/MarisaPrisa_d9opbi.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296163/MarisaPrisa_d9opbi.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t2",
@@ -371,7 +423,9 @@
       "winner": true,
       "missCongeniality": false,
       "description": "Gran maestra de la costura y la moda, es la ganadora de la tercera temporada",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296589/Pitita_so8jp1.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296589/Pitita_so8jp1.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -386,7 +440,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Finalista de la segunda temporada, convenció a todo el mundo con su gracia natural",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/VaniaVainilla_tgcxsq.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/VaniaVainilla_tgcxsq.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -401,7 +457,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Finalista por 2 veces, ha demostrado tener un gran gusto y talento innegable",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296580/HornellaG_3Fngora_uf7r7i.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296580/HornellaG_3Fngora_uf7r7i.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296582/HornellaG_3FngoraDRESAS1_t1z8tb.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -421,7 +480,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Patinadora de profesión, es la unica reina que ha participado en patines de la franquicia y que ha sido expulsada y ha vuelto.",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296583/KellyRoller_wtzwvp.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296583/KellyRoller_wtzwvp.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -436,7 +497,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Artistaza con mayuculas, mujer cis-hetero, se ha confirmado que va a la proxima edicion internacional",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/CloverBish_jadxlb.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/CloverBish_jadxlb.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -451,7 +514,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Su nombre describe en parte a su drag, algo rocambolesco y/o monstruoso",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296577/Bestiah_appuiu.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296577/Bestiah_appuiu.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -466,7 +531,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Artista drag y cantante con varios hits conocidos en el ambiente LGTBI",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296587/PinkChadoraDRES3_q3k2uy.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296587/PinkChadoraDRES3_q3k2uy.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296588/PinkChadoraDRESAS1_vk5hki.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -486,7 +554,10 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Sevillana, artista y talentosa drag, con un gusto exquisito y arte que no se puede aguantar",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296585/PakitaDRES3_flsqsu.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296585/PakitaDRES3_flsqsu.webp",
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296586/PakitaDRESAS1_df5inc.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -506,7 +577,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Drag mejicana, fue nombrada por sus compañeras miss Look Perdido",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/Visa_nuphwg.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/Visa_nuphwg.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -521,7 +594,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Su drag es oscuro, creepy y poco comun, lo que la hace muy original",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/ChanelAnorex_sziaum.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/ChanelAnorex_sziaum.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -536,7 +611,9 @@
       "winner": true,
       "missCongeniality": false,
       "description": "Tercera drag canaria, es la que peor puesto obtuvo de las tres.",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296579/DragChuchi_wxmffs.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296579/DragChuchi_wxmffs.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -551,7 +628,9 @@
       "winner": false,
       "missCongeniality": true,
       "description": "Primera expulsada de su cocurso, de origen venezolano, salió mal parada en su maxi reto",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296584/MariaEdilia_uq7vml.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296584/MariaEdilia_uq7vml.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t3",
@@ -566,7 +645,9 @@
       "winner": true,
       "missCongeniality": false,
       "description": "La nariz de la noche madrileña, cabaretera y mujer de calle, asi se defina la ganadora de la cuarta edición",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -581,7 +662,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Anteriormente llamada Vampirashian, fue la merecedora del primer puesto según una gran parte del público",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -596,7 +679,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Rebelde y alocada, esta chica a pesar de tener un drag muy joven demostró ser de las mejores del formato",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/ChloeVittu_ipecr9.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/ChloeVittu_ipecr9.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -611,7 +696,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Fue nombrada miss Maquillaje y demostró su potencial convirtiendose en finalista",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LaNi_3FaDelantro_cg4l9b.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LaNi_3FaDelantro_cg4l9b.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -626,7 +713,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Artista, drag y Miss, demostró ser todoterreno en el programa",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296842/MarianaStars_ggbwh6.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296842/MarianaStars_ggbwh6.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -641,7 +730,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Primera drag que ha participado en todas las ediciones(en las anteriores como PitCrew)",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MeguiYeillow_ppdj5i.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MeguiYeillow_ppdj5i.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -656,7 +747,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Nombrada popularmente como la drag mas odiada del formato, fue tachada de transfoba y acusada de agrsión",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296835/AngelitalaPerversa_s080am.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296835/AngelitalaPerversa_s080am.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -671,7 +764,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Fashion Victim por excelencia, convertía sus pasarelas en una pasarela de Vogue",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MissKhristo_mufqlk.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MissKhristo_mufqlk.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -686,7 +781,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Definía su drag como punk, era extravagante y llamativo",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296837/KellyPassa_21_3F_duj2n5.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296837/KellyPassa_21_3F_duj2n5.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -701,7 +798,9 @@
       "winner": false,
       "missCongeniality": true,
       "description": "Primera Drag canaria del formato que no hace drag canario. Comedy queen",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/DitaDubois_lfdtca.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/DitaDubois_lfdtca.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -716,7 +815,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Su drag era oscuro y fetiche, fue miss look perdido",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296845/PorcaTheclubkid_ktajch.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296845/PorcaTheclubkid_ktajch.webp"
+      ],
       "seasons": [
         {
           "seasonId": "t4",
@@ -731,7 +832,9 @@
       "winner": false,
       "missCongeniality": false,
       "description": "Fue la primera expulsada de su edicion, ganó fama y mejoró su drag tras la expulsión",
-      "image": "https://res.cloudinary.com/dinaognbb/image/upload/v1748296846/ShaniLaSanta_woopz2.webp",
+      "image": [
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296846/ShaniLaSanta_woopz2.webp"
+      ],
       "seasonsParticipated": [
         {
           "seasonId": "t4",
@@ -739,6 +842,14 @@
           "temporada": "Cuarta"
         }
       ]
+    },
+    {
+      "image": "descarga.jpeg",
+      "name": "m",
+      "winner": true,
+      "missCongeniality": false,
+      "description": "n",
+      "id": "qT2DQJv"
     }
   ],
   "seasons": [
