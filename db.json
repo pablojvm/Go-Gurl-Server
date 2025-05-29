@@ -5,6 +5,7 @@
       "name": "Carmen Farala",
       "winner": true,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Es la primera ganadora de la franquicia española. Una gran artista del diseño y la costura ",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748268433/CarmenFarala_dkk2gw.webp"
@@ -22,6 +23,7 @@
       "name": "Killer Queen",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Finalista de la primera temporada, llegó al lipsync final donde quedó runnerUp junto a Sagittaria. Activista del colectivo",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748268447/KillerQueen_qriwv4.webp"
@@ -39,6 +41,7 @@
       "name": "Sagittaria",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "RunnerUp de la primera temporada es una de las mejores drags enfocadas en moda, tambien participó en el All Star",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/Sagittaria_todj4u.webp",
@@ -62,6 +65,7 @@
       "name": "Pupi Poisson",
       "winner": false,
       "missCongeniality": true,
+      "isFav": false,
       "description": "Nombrada como missCongeniality Pupi es una de las comedy Drags mas graciosas",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748268484/PupiPoisson_dotcd3.webp",
@@ -85,6 +89,7 @@
       "name": "Dovima Nurmi",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Concuersante de la primera edición, perdió a posta en el lipsync",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DovimaNurmi_sjtcsn.webp"
@@ -102,6 +107,7 @@
       "name": "Hugaceo Crujiente",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Reconodia drag por su exhuberante y llamativo maquillaje que recuerda al art-pop",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/Hug_3FceoCrujiente_qcu46n.webp"
@@ -119,6 +125,7 @@
       "name": "Arantxa Castilla la Mancha",
       "winner": false,
       "missCongeniality": true,
+      "isFav": true,
       "description": "Volvería para edición internacional donde sería nombrada missCongeniality",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/ArantxaCastillaLaMancha_atkd1b.webp",
@@ -137,6 +144,7 @@
       "name": "Inti",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Su drag suele hacer referencia a su procedencia indigena, ha sido la unica del formato en abandonar",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295670/Inti_lz96vx.webp"
@@ -154,6 +162,7 @@
       "name": "Drag Vulcano",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Primera drag canaria del formato y asidua pasrticipante de la Gala Drag Queen Las Palmas ",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DragVulcano_ijfvoo.webp"
@@ -171,6 +180,7 @@
       "name": "The Macarena",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "La unica drag que ha concursado en dos temporadas normales, la primera y la tercera",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295672/TheMacarena_geg11z.webp",
@@ -194,6 +204,7 @@
       "name": "Sharonne",
       "winner": true,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Ganadora de la segunda edición de esta competición. Reina todoterreno",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/Sharonne_cuzeyn.webp"
@@ -211,6 +222,7 @@
       "name": "Estrella Xtravaganza",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Definida a sí misma como gora y travesti, fue nombrada por sus compañeras missMuerta de hambre",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296158/EstrellaXtravaganza_lajwwx.webp"
@@ -228,6 +240,7 @@
       "name": "Venedita Von Däsh",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Artista drag andrógina, con un drag sado y cuero-fetichista",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296168/VeneditaVonD_3Fsh_bumf1k.webp"
@@ -245,6 +258,7 @@
       "name": "Marina",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Una de las finalistas de su temporada, define su drag como la parte femenina de su personalidad",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296162/Marina_yldsb0.webp"
@@ -262,6 +276,7 @@
       "name": "Juriji Der Klee",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Artista drag y mujer trans que volveria a la edición del All Stars para convertirse en finalista",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296160/JurijiDerKlee_rwrgk0.webp",
@@ -285,6 +300,7 @@
       "name": "Drag Sethlas",
       "winner": true,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Tras un sexto puesto en su primera competición, volveria al All Stars para convertise en ganadora",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DragSethlas_eyvrnl.webp",
@@ -308,6 +324,7 @@
       "name": "Diamante Mery Brown",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Es la primera dominicana de la franquicia. Su paso por el concurso no le granjeó mucha simpatia entre el público",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296156/DiamanteMerybrown_eskoo7.webp"
@@ -325,6 +342,7 @@
       "name": "Onyx Unleashed",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Tras quedar en octava posición en su temporada original, volveria al all star para quedar en el mismo puesto.",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296164/Onyx_so01bq.webp",
@@ -348,6 +366,7 @@
       "name": "Jota Carajota",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Recurrente drag de la noche torremolinense, es una destacada comedy-drag tachada de poco original",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296159/JotaCarajota_xdczp1.webp"
@@ -365,6 +384,7 @@
       "name": "Samantha Ballentines",
       "winner": false,
       "missCongeniality": true,
+      "isFav": false,
       "description": "ComedyQueen por excelencia que tras quedar penultima en su primera edición, volvio al All Stars para quedar segunda",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296166/SamanthaBallentines_jspogf.webp",
@@ -388,6 +408,7 @@
       "name": "Ariel Rec",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "En penultima posición en su temporada, no se pudo ver mucho de ella",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296155/ArielRec_opedk9.webp"
@@ -405,6 +426,7 @@
       "name": "Marisa Prisa",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Fues la segunda reina en traer comida al werkroom durante su entrada y luego ser eliminada en el primer episodio",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296163/MarisaPrisa_d9opbi.webp"
@@ -422,6 +444,7 @@
       "name": "Pitita",
       "winner": true,
       "missCongeniality": false,
+      "isFav": true,
       "description": "Gran maestra de la costura y la moda, es la ganadora de la tercera temporada",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296589/Pitita_so8jp1.webp"
@@ -439,6 +462,7 @@
       "name": "Vania Vainilla",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Finalista de la segunda temporada, convenció a todo el mundo con su gracia natural",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/VaniaVainilla_tgcxsq.webp"
@@ -456,6 +480,7 @@
       "name": "Hornella Gongora",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Finalista por 2 veces, ha demostrado tener un gran gusto y talento innegable",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296580/HornellaG_3Fngora_uf7r7i.webp",
@@ -479,6 +504,7 @@
       "name": "Kelly Roller",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Patinadora de profesión, es la unica reina que ha participado en patines de la franquicia y que ha sido expulsada y ha vuelto.",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296583/KellyRoller_wtzwvp.webp"
@@ -496,6 +522,7 @@
       "name": "Clover Bish",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Artistaza con mayuculas, mujer cis-hetero, se ha confirmado que va a la proxima edicion internacional",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/CloverBish_jadxlb.webp"
@@ -513,6 +540,7 @@
       "name": "Bestiah",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Su nombre describe en parte a su drag, algo rocambolesco y/o monstruoso",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296577/Bestiah_appuiu.webp"
@@ -530,6 +558,7 @@
       "name": "Pink Chadora",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Artista drag y cantante con varios hits conocidos en el ambiente LGTBI",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296587/PinkChadoraDRES3_q3k2uy.webp",
@@ -553,6 +582,7 @@
       "name": "Pakita",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Sevillana, artista y talentosa drag, con un gusto exquisito y arte que no se puede aguantar",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296585/PakitaDRES3_flsqsu.webp",
@@ -576,6 +606,7 @@
       "name": "Visa",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Drag mejicana, fue nombrada por sus compañeras miss Look Perdido",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296591/Visa_nuphwg.webp"
@@ -593,6 +624,7 @@
       "name": "Chanel Anorex",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Su drag es oscuro, creepy y poco comun, lo que la hace muy original",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/ChanelAnorex_sziaum.webp"
@@ -608,8 +640,9 @@
     {
       "id": "r33",
       "name": "Drag Chuchi",
-      "winner": true,
+      "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Tercera drag canaria, es la que peor puesto obtuvo de las tres.",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296579/DragChuchi_wxmffs.webp"
@@ -627,6 +660,7 @@
       "name": "Maria Edilia",
       "winner": false,
       "missCongeniality": true,
+      "isFav": false,
       "description": "Primera expulsada de su cocurso, de origen venezolano, salió mal parada en su maxi reto",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296584/MariaEdilia_uq7vml.webp"
@@ -644,6 +678,7 @@
       "name": "Le Cocó",
       "winner": true,
       "missCongeniality": false,
+      "isFav": false,
       "description": "La nariz de la noche madrileña, cabaretera y mujer de calle, asi se defina la ganadora de la cuarta edición",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp"
@@ -661,9 +696,10 @@
       "name": "La Bella Vampi",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Anteriormente llamada Vampirashian, fue la merecedora del primer puesto según una gran parte del público",
       "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LeCoc_3F_aaspbn.webp"
+        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296846/Vampirashian_e4vhjh.webp"
       ],
       "seasons": [
         {
@@ -678,6 +714,7 @@
       "name": "Chloe Vittu",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Rebelde y alocada, esta chica a pesar de tener un drag muy joven demostró ser de las mejores del formato",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/ChloeVittu_ipecr9.webp"
@@ -695,6 +732,7 @@
       "name": "La Niña Delantro",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Fue nombrada miss Maquillaje y demostró su potencial convirtiendose en finalista",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296839/LaNi_3FaDelantro_cg4l9b.webp"
@@ -712,6 +750,7 @@
       "name": "Mariana Star",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Artista, drag y Miss, demostró ser todoterreno en el programa",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296842/MarianaStars_ggbwh6.webp"
@@ -729,6 +768,7 @@
       "name": "Megui Yellow",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Primera drag que ha participado en todas las ediciones(en las anteriores como PitCrew)",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MeguiYeillow_ppdj5i.webp"
@@ -746,6 +786,7 @@
       "name": "Angelita la Perversa",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Nombrada popularmente como la drag mas odiada del formato, fue tachada de transfoba y acusada de agrsión",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296835/AngelitalaPerversa_s080am.webp"
@@ -763,6 +804,7 @@
       "name": "Miss Khristo",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Fashion Victim por excelencia, convertía sus pasarelas en una pasarela de Vogue",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296843/MissKhristo_mufqlk.webp"
@@ -780,6 +822,7 @@
       "name": "Kelly Passa",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Definía su drag como punk, era extravagante y llamativo",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296837/KellyPassa_21_3F_duj2n5.webp"
@@ -797,6 +840,7 @@
       "name": "Dita Dubois",
       "winner": false,
       "missCongeniality": true,
+      "isFav": false,
       "description": "Primera Drag canaria del formato que no hace drag canario. Comedy queen",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296836/DitaDubois_lfdtca.webp"
@@ -814,6 +858,7 @@
       "name": "Porca TheClubKidd",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Su drag era oscuro y fetiche, fue miss look perdido",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296845/PorcaTheclubkid_ktajch.webp"
@@ -831,6 +876,7 @@
       "name": "Shani LaSanta",
       "winner": false,
       "missCongeniality": false,
+      "isFav": false,
       "description": "Fue la primera expulsada de su edicion, ganó fama y mejoró su drag tras la expulsión",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296846/ShaniLaSanta_woopz2.webp"
@@ -842,14 +888,6 @@
           "temporada": "Cuarta"
         }
       ]
-    },
-    {
-      "image": "descarga.jpeg",
-      "name": "m",
-      "winner": true,
-      "missCongeniality": false,
-      "description": "n",
-      "id": "qT2DQJv"
     }
   ],
   "seasons": [
@@ -1176,8 +1214,8 @@
       "numberEpisode": 1,
       "seasonId": "t1",
       "episodeWinner": "Hugáceo Crujiente",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "The Macarena",
+      "description": "El maxi reto fue crear el mejor look y la temática de pasarela fue: De Mercadillo"
     },
     {
       "id": "t1e2",
@@ -1185,8 +1223,8 @@
       "numberEpisode": 2,
       "seasonId": "t1",
       "episodeWinner": "Carmen Farala",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Drag Vulcano",
+      "description": "El maxi reto fue GirlBands y la temática de la pasarela Tributo a la Veneno"
     },
     {
       "id": "t1e3",
@@ -1194,8 +1232,8 @@
       "numberEpisode": 3,
       "seasonId": "t1",
       "episodeWinner": "Sagittaria",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Inti",
+      "description": "El maxi reto fue acting y la temática de la pasarela fue Miss Raices"
     },
     {
       "id": "t1e4",
@@ -1203,8 +1241,8 @@
       "numberEpisode": 4,
       "seasonId": "t1",
       "episodeWinner": "Killer Queen",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Arantxa Castilla-La Mancha",
+      "description": "EL maxi reto es el SnatchGame y la temática de la pasarela fue Choni de barrio, Ejecutiva agressiva y Jet-Set-Marbelli"
     },
     {
       "id": "t1e5",
@@ -1212,8 +1250,8 @@
       "numberEpisode": 5,
       "seasonId": "t1",
       "episodeWinner": "Pupi Poisson",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Hugaceo Crujiente",
+      "description": "El maxi reto fue de acting y la temática de pasarela Arte español Elenganza Extravaganza"
     },
     {
       "id": "t1e6",
@@ -1221,8 +1259,8 @@
       "numberEpisode": 6,
       "seasonId": "t1",
       "episodeWinner": "Carmen Farala",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Dovima Nurmi",
+      "description": "El maxi reto fue un Roast y la temática de pasarela La noche de las mil Rosalias"
     },
     {
       "id": "t1e7",
@@ -1230,8 +1268,8 @@
       "numberEpisode": 7,
       "seasonId": "t1",
       "episodeWinner": "Carmen Farala",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Pupi Poisson",
+      "description": "El maxi reto fue el MakeOver y la temática de pasarela Furia de Titanas"
     },
     {
       "id": "t1e8",
@@ -1240,7 +1278,7 @@
       "seasonId": "t1",
       "episodeWinner": "Pupi Poisson miss Simpatia",
       "episodeLooser": "",
-      "description": ""
+      "description": "Reencuentro de las reinas para elegir a missCongeniality"
     },
     {
       "id": "t1e9",
@@ -1266,8 +1304,8 @@
       "numberEpisode": 1,
       "seasonId": "t2",
       "episodeWinner": "Onyx Unleashed",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Marisa Prisa",
+      "description": "El maxi reto fue llevar dos looks a pasarela, inspirados en sus ciudades natales"
     },
     {
       "id": "t2e2",
@@ -1275,8 +1313,8 @@
       "numberEpisode": 2,
       "seasonId": "t2",
       "episodeWinner": "Sharonne",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Ariel Rec",
+      "description": "El maxi reto fue el show talent y la temática de pasarela El dia de la bestia"
     },
     {
       "id": "t2e3",
@@ -1284,8 +1322,8 @@
       "numberEpisode": 3,
       "seasonId": "t2",
       "episodeWinner": "Venedita Von Däsh",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Samantha Ballentines",
+      "description": "El maxi reto fue improvisacion y la temática de pasarela mujeres Almodovar"
     },
     {
       "id": "t2e4",
@@ -1293,8 +1331,8 @@
       "numberEpisode": 4,
       "seasonId": "t2",
       "episodeWinner": "Estrella Xtravaganza",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Jota Carajota",
+      "description": "El maxi reto fue protagonizar la LlamaDrag y el tema de pasarela fue dos looks en uno con un Ruveal"
     },
     {
       "id": "t2e5",
@@ -1302,8 +1340,8 @@
       "numberEpisode": 5,
       "seasonId": "t2",
       "episodeWinner": "Sharonne",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Onyx Unleashed",
+      "description": "El maxi reto fue el SnatchGame y la tematica de pasarela Muñeca Española"
     },
     {
       "id": "t2e6",
@@ -1311,8 +1349,8 @@
       "numberEpisode": 6,
       "seasonId": "t2",
       "episodeWinner": "Drag Sethlas",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Diamante Mery Brown",
+      "description": "El maxi reto fue el Ball y la temática España siglo X, XX y XXX"
     },
     {
       "id": "t2e7",
@@ -1320,8 +1358,8 @@
       "numberEpisode": 7,
       "seasonId": "t2",
       "episodeWinner": "Estrella Xtravaganza y Sharonne",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Drag Sethlas",
+      "description": "EL maxi reto fue acting y la tematica de pasarela la noche de las mil Rafaellas"
     },
     {
       "id": "t2e8",
@@ -1329,8 +1367,8 @@
       "numberEpisode": 8,
       "seasonId": "t2",
       "episodeWinner": "Marina",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Juriji DerKlee",
+      "description": "El maxi reto fue el roast y la temática de pasarela Heroinas de España"
     },
     {
       "id": "t2e9",
@@ -1339,7 +1377,7 @@
       "seasonId": "t2",
       "episodeWinner": "Venedita Von Däsh",
       "episodeLooser": "",
-      "description": ""
+      "description": "El maxi reto fue el MakeOver y la temática de pasarela Por Parejas"
     },
     {
       "id": "t2e10",
@@ -1348,7 +1386,7 @@
       "seasonId": "t2",
       "episodeWinner": "Samantha Ballantines Miss Simpatia",
       "episodeLooser": "",
-      "description": ""
+      "description": "En el reencuentro nombraron a Samantha missCongeniality"
     },
     {
       "id": "t2e11",
@@ -1356,8 +1394,8 @@
       "numberEpisode": 11,
       "seasonId": "t2",
       "episodeWinner": "Sharonne",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Marina",
+      "description": "El maxi reto fue escribir una parte de la cancion y la tematica de pasarela Mi Mejor Look Drag"
     },
     {
       "id": "t2e12",
@@ -1366,7 +1404,7 @@
       "seasonId": "t2",
       "episodeWinner": "Sharonne",
       "episodeLooser": "",
-      "description": ""
+      "description": "Coronacion final de Sharonne"
     },
     {
       "id": "t3e1",
@@ -1374,8 +1412,8 @@
       "numberEpisode": 1,
       "seasonId": "t3",
       "episodeWinner": "Bestiah",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Maria Edilia",
+      "description": "El maxi reto fue el TalentShow y la temática de pasarela fue Spain is different"
     },
     {
       "id": "t3e2",
@@ -1383,8 +1421,8 @@
       "numberEpisode": 2,
       "seasonId": "t3",
       "episodeWinner": "Pink Chadora",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Drag Chuchi",
+      "description": "El maxi reto fue competicion de baile y la temática de pasarela España en Eurovision"
     },
     {
       "id": "t3e3",
@@ -1392,8 +1430,8 @@
       "numberEpisode": 3,
       "seasonId": "t3",
       "episodeWinner": "Pitita",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Chanel Anorex",
+      "description": "El maxi reto fue El ball y la tematica de pasarela Colores, Sabores y Regiones"
     },
     {
       "id": "t3e4",
@@ -1401,8 +1439,8 @@
       "numberEpisode": 4,
       "seasonId": "t3",
       "episodeWinner": "Pitita",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Kelly Roller",
+      "description": "El maxi reto fue acting y la tematica de pasarela Mi Peor Yo"
     },
     {
       "id": "t3e5",
@@ -1410,8 +1448,8 @@
       "numberEpisode": 5,
       "seasonId": "t3",
       "episodeWinner": "Pink Chadora",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "The Macarena",
+      "description": "El maxi reto fue el SnatchGame y la temática de pasarela fue Arriba la Pluma"
     },
     {
       "id": "t3e6",
@@ -1419,17 +1457,17 @@
       "numberEpisode": 6,
       "seasonId": "t3",
       "episodeWinner": "Pitita",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Visa",
+      "description": "El maxi reto fue de acting e improvisación y la temática de pasarela 3 looks en 1"
     },
     {
       "id": "t3e7",
-      "title": "Segunda Oportunidad",
+      "title": "Segunda OportuniDrag",
       "numberEpisode": 7,
       "seasonId": "t3",
       "episodeWinner": "Vania Vainilla y Kelly Roller",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Pakita y Pink Chadora",
+      "description": "Repescan a Kelly Roller. El maxi reto fue hacer un duo comico y la temática de pasarela Peluca Palooza"
     },
     {
       "id": "t3e8",
@@ -1437,8 +1475,8 @@
       "numberEpisode": 8,
       "seasonId": "t3",
       "episodeWinner": "Pitita",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Bestiah",
+      "description": "El maxi reto fue acting y la tematica de pasarela Una Ilusion"
     },
     {
       "id": "t3e9",
@@ -1446,8 +1484,8 @@
       "numberEpisode": 9,
       "seasonId": "t3",
       "episodeWinner": "Vania Vainilla",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Clover Bish",
+      "description": "El maxi reto fue el MakeOver y la tematica de pasarela fue Barricientas"
     },
     {
       "id": "t3e10",
@@ -1456,7 +1494,7 @@
       "seasonId": "t3",
       "episodeWinner": "Maria Edilia miss Simpatia",
       "episodeLooser": "",
-      "description": ""
+      "description": "Celebran el reencuentro y nombran a Maria Edilia como Miss Congeniality"
     },
     {
       "id": "t3e11",
@@ -1464,8 +1502,8 @@
       "numberEpisode": 11,
       "seasonId": "t3",
       "episodeWinner": "Pitita",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Hornella Góngora y Kelly Roller",
+      "description": "El maxi reto fue escribir su parte de una cancion y la temática de pasarela fue Mi Mjeor Look Drag"
     },
     {
       "id": "t3e12",
@@ -1473,8 +1511,8 @@
       "numberEpisode": 12,
       "seasonId": "t3",
       "episodeWinner": "Pitita",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Vania Vainilla como RunnerUp",
+      "description": "Coronación de Pitita"
     },
     {
       "id": "t4e1",
@@ -1482,8 +1520,8 @@
       "numberEpisode": 1,
       "seasonId": "t4",
       "episodeWinner": "Miss Khristo",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Shani LaSanta",
+      "description": "El maxi reto fue el ball y la temática de pasarela Regreso al Pasado, Salto al Futuro y Seguda Primera Vez"
     },
     {
       "id": "t4e2",
@@ -1491,8 +1529,8 @@
       "numberEpisode": 2,
       "seasonId": "t4",
       "episodeWinner": "Megui Yeillow",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Porca TheClubKidd",
+      "description": "El maxi reto fue el TalentShow y la temática de pasarela Barrococó"
     },
     {
       "id": "t4e3",
@@ -1500,8 +1538,8 @@
       "numberEpisode": 3,
       "seasonId": "t4",
       "episodeWinner": "Angelita la Perversa",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Dita Dubois",
+      "description": "El maxi reto fue el acting y a tematica de pasarela Historias para no Dormir"
     },
     {
       "id": "t4e4",
@@ -1509,8 +1547,8 @@
       "numberEpisode": 4,
       "seasonId": "t4",
       "episodeWinner": "La niña Delantro",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Kelly Passa",
+      "description": "El maxi reto fue de GirlBands y la temática de pasarela La Noche de las mil Ana Locking"
     },
     {
       "id": "t4e5",
@@ -1518,8 +1556,8 @@
       "numberEpisode": 5,
       "seasonId": "t4",
       "episodeWinner": "Mariana Stars",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Miss Krhisto",
+      "description": "El maxi reto fue el Snatch Game y la tematica de pasarela Rural Fashion Week"
     },
     {
       "id": "t4e6",
@@ -1528,7 +1566,7 @@
       "seasonId": "t4",
       "episodeWinner": "La Bella Vampi",
       "episodeLooser": "",
-      "description": ""
+      "description": "EL maxi reto fue participar en el musical de Eternas y la temática de pasarela fue soy una Feria"
     },
     {
       "id": "t4e7",
@@ -1536,8 +1574,8 @@
       "numberEpisode": 7,
       "seasonId": "t4",
       "episodeWinner": "Le Cocó",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Angelita La perversa",
+      "description": "El maxireto acting por parejas y la tematica de pasarela Los cuatro Elementos"
     },
     {
       "id": "t4e8",
@@ -1545,8 +1583,8 @@
       "numberEpisode": 8,
       "seasonId": "t4",
       "episodeWinner": "Le Cocó",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Megui Yeillow",
+      "description": "El maxi reto fue el roast y la temática fue Tocada y no Hundida"
     },
     {
       "id": "t4e9",
@@ -1554,8 +1592,8 @@
       "numberEpisode": 9,
       "seasonId": "t4",
       "episodeWinner": "Chloe Vittu",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Mariana Stars",
+      "description": "El maxi reto fue el MakeOver y la temática de pasarela fue Leyendas"
     },
     {
       "id": "t4e10",
@@ -1564,7 +1602,7 @@
       "seasonId": "t4",
       "episodeWinner": "Dita Dubois miss Simpatia",
       "episodeLooser": "",
-      "description": ""
+      "description": "Celebran el reencuentro y nombram a Dita Dubois como miss Congeniality"
     },
     {
       "id": "t4e10",
@@ -1572,8 +1610,8 @@
       "numberEpisode": 11,
       "seasonId": "t4",
       "episodeWinner": "Se pospuso la coronación",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "La Niña DelAntro",
+      "description": "Celebran una Final falsa con un LipSync como maxi reto y Mi Mejor Look Drag como temática de pasarela"
     },
     {
       "id": "t4e10",
@@ -1581,8 +1619,8 @@
       "numberEpisode": 13,
       "seasonId": "t4",
       "episodeWinner": "Le Cocó",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Chloe Vittu",
+      "description": "Coronación de Pitita"
     },
     {
       "id": "ASe1",
@@ -1590,8 +1628,8 @@
       "numberEpisode": 1,
       "seasonId": "AS1",
       "episodeWinner": "Drag Sethlas",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Pink Chadora",
+      "description": "El maxi reto fue el TalentShow y la temática de pasarela Supremmme Eleganza"
     },
     {
       "id": "ASe2",
@@ -1599,8 +1637,8 @@
       "numberEpisode": 2,
       "seasonId": "AS1",
       "episodeWinner": "Pupi Poisson",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Onyx Unleashed",
+      "description": "El  maxi reto fue el SnatchGame y la temática de pasarela Redención"
     },
     {
       "id": "ASe3",
@@ -1608,8 +1646,8 @@
       "numberEpisode": 3,
       "seasonId": "AS1",
       "episodeWinner": "Drag Sethlas",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Pakita",
+      "description": "El maxi reto feu el ball y la temática de pasarela Cielo, Infierno y Pecados Capitales"
     },
     {
       "id": "ASe4",
@@ -1617,8 +1655,8 @@
       "numberEpisode": 4,
       "seasonId": "AS1",
       "episodeWinner": "Samantha Ballantines",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Sagittaria",
+      "description": "EL maxi reto fue el GirlBands y la temática de pasarela Strass Divina De la Muerte"
     },
     {
       "id": "ASe5",
@@ -1626,8 +1664,8 @@
       "numberEpisode": 5,
       "seasonId": "AS1",
       "episodeWinner": "Samantha Ballantines",
-      "episodeLooser": "",
-      "description": ""
+      "episodeLooser": "Pupi Poisson",
+      "description": "El maxi reto fue el Roast y la temática de pasarela Martirizadas"
     },
     {
       "id": "ASe6",
@@ -1636,7 +1674,7 @@
       "seasonId": "AS1",
       "episodeWinner": "Samantha Ballantines Miss Simpatia",
       "episodeLooser": "",
-      "description": ""
+      "description": "Celebran el reencuentro y nombram a Samanta Ballentines como miss Congeniality por segunda vez"
     },
     {
       "id": "ASe7",
@@ -1645,7 +1683,7 @@
       "seasonId": "AS1",
       "episodeWinner": "Drag Sethlas",
       "episodeLooser": "",
-      "description": ""
+      "description": "Se enfrentan a LipSync para ganar la corona como maxi reto y la temática de pasarela Ole Stars Eleganza"
     }
   ]
 }
