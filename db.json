@@ -37,30 +37,6 @@
       ]
     },
     {
-      "id": "r3",
-      "name": "Sagittaria",
-      "winner": false,
-      "missCongeniality": false,
-      "isFav": false,
-      "description": "RunnerUp de la primera temporada es una de las mejores drags enfocadas en moda, tambien participó en el All Star",
-      "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/Sagittaria_todj4u.webp",
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748268469/SagittariaDRESAS1_ivi4wi.webp"
-      ],
-      "seasons": [
-        {
-          "seasonId": "t1",
-          "ranking": 3,
-          "temporada": "Primera"
-        },
-        {
-          "seasonId": "AS1",
-          "ranking": 6,
-          "temporada": "All Stars"
-        }
-      ]
-    },
-    {
       "id": "r4",
       "name": "Pupi Poisson",
       "winner": false,
@@ -81,24 +57,6 @@
           "seasonId": "AS1",
           "ranking": 5,
           "temporada": "All Stars"
-        }
-      ]
-    },
-    {
-      "id": "r5",
-      "name": "Dovima Nurmi",
-      "winner": false,
-      "missCongeniality": false,
-      "isFav": false,
-      "description": "Concuersante de la primera edición, perdió a posta en el lipsync",
-      "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/DovimaNurmi_sjtcsn.webp"
-      ],
-      "seasons": [
-        {
-          "seasonId": "t1",
-          "ranking": 5,
-          "temporada": "Primera"
         }
       ]
     },
@@ -268,30 +226,6 @@
           "seasonId": "t1",
           "ranking": 4,
           "temporada": "Segunda"
-        }
-      ]
-    },
-    {
-      "id": "r15",
-      "name": "Juriji Der Klee",
-      "winner": false,
-      "missCongeniality": false,
-      "isFav": false,
-      "description": "Artista drag y mujer trans que volveria a la edición del All Stars para convertirse en finalista",
-      "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296160/JurijiDerKlee_rwrgk0.webp",
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296161/JurijiDerKleeDRESAS1_pyymxh.webp"
-      ],
-      "seasons": [
-        {
-          "seasonId": "t2",
-          "ranking": 5,
-          "temporada": "Segunda"
-        },
-        {
-          "seasonId": "AS1",
-          "ranking": 3,
-          "temporada": "All Stars"
         }
       ]
     },
@@ -518,24 +452,6 @@
       ]
     },
     {
-      "id": "r27",
-      "name": "Clover Bish",
-      "winner": false,
-      "missCongeniality": false,
-      "isFav": false,
-      "description": "Artistaza con mayuculas, mujer cis-hetero, se ha confirmado que va a la proxima edicion internacional",
-      "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296578/CloverBish_jadxlb.webp"
-      ],
-      "seasons": [
-        {
-          "seasonId": "t3",
-          "ranking": 5,
-          "temporada": "Tercera"
-        }
-      ]
-    },
-    {
       "id": "r28",
       "name": "Bestiah",
       "winner": false,
@@ -573,30 +489,6 @@
         {
           "seasonId": "AS1",
           "ranking": 9,
-          "temporada": "All Stars"
-        }
-      ]
-    },
-    {
-      "id": "r30",
-      "name": "Pakita",
-      "winner": false,
-      "missCongeniality": false,
-      "isFav": false,
-      "description": "Sevillana, artista y talentosa drag, con un gusto exquisito y arte que no se puede aguantar",
-      "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296585/PakitaDRES3_flsqsu.webp",
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296586/PakitaDRESAS1_df5inc.webp"
-      ],
-      "seasons": [
-        {
-          "seasonId": "t3",
-          "ranking": 8,
-          "temporada": "Tercera"
-        },
-        {
-          "seasonId": "AS1",
-          "ranking": 7,
           "temporada": "All Stars"
         }
       ]
@@ -813,24 +705,6 @@
         {
           "seasonId": "t4",
           "ranking": 8,
-          "temporada": "Cuarta"
-        }
-      ]
-    },
-    {
-      "id": "r43",
-      "name": "Kelly Passa",
-      "winner": false,
-      "missCongeniality": false,
-      "isFav": false,
-      "description": "Definía su drag como punk, era extravagante y llamativo",
-      "image": [
-        "https://res.cloudinary.com/dinaognbb/image/upload/v1748296837/KellyPassa_21_3F_duj2n5.webp"
-      ],
-      "seasons": [
-        {
-          "seasonId": "t4",
-          "ranking": 9,
           "temporada": "Cuarta"
         }
       ]
