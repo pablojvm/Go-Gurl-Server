@@ -125,7 +125,7 @@
       "name": "Arantxa Castilla la Mancha",
       "winner": false,
       "missCongeniality": true,
-      "isFav": true,
+      "isFav": false,
       "description": "Volvería para edición internacional donde sería nombrada missCongeniality",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748295669/ArantxaCastillaLaMancha_atkd1b.webp",
@@ -444,7 +444,7 @@
       "name": "Pitita",
       "winner": true,
       "missCongeniality": false,
-      "isFav": true,
+      "isFav": false,
       "description": "Gran maestra de la costura y la moda, es la ganadora de la tercera temporada",
       "image": [
         "https://res.cloudinary.com/dinaognbb/image/upload/v1748296589/Pitita_so8jp1.webp"
